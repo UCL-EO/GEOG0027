@@ -77,7 +77,7 @@ N.B.
 
 | Tuesday 10:00-11:00 | Thursday 11:00-13:00 | Friday 16:00-17:00 |
 | -------------------|  -------------------| :-----------------: | 
-| Week 1 |  14/1/2020 LECTURE 1 [Introduction to course; Environmental Remote Sensing](docs/coursenotes/lecture1.pdf) | 16/1/2020 COMPUTING 1 [Image Display](docs/ImageDisplay.ipynb)|
+| Week 1 |  14/1/2020 LECTURE 1 [Introduction to course; Environmental Remote Sensing](docs/coursenotes/lecture1-2020.pdf) | 16/1/2020 COMPUTING 1 [Image Display](docs/ImageDisplay.ipynb)|
 | Week 2 | 21/1/2020 LECTURE 2 [Image Display and Enhancement](docs/coursenotes/lecture2.pdf)| 23/1/2020 DOWNLOAD [Data download](docs/Download.ipynb)|
 | Week 3 | 28/1/2020 LECTURE 3 [Spatial Information](docs/coursenotes/lecture3.pdf) | 30/1/2020 COMPUTING 2 [Spatial Filtering](docs/SpatialFiltering.ipynb) |
 | Week 4  | 4/2/2020 NO LECTURE | 04/2/16 COMPUTING 3 [Classification](docs/Classification.ipynb) | 
