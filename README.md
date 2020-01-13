@@ -6,13 +6,13 @@
 
 # GEOG0027 Environmental Remote Sensing
 
-## Course Tutors
+## Course Tutors 2020
+
+[Dr Qingling Wu](https://www.geog.ucl.ac.uk/people/research-staff/qingling-wu)
 
 [Prof. P. Lewis](http://www2.geog.ucl.ac.uk/~plewis)
 
 [Prof. M. Disney](http://www2.geog.ucl.ac.uk/~mdisney)
-
-[Dr Qingling Wu](https://www.geog.ucl.ac.uk/people/research-staff/qingling-wu)
 
 Department of Geography
     
@@ -21,7 +21,7 @@ University College London
     
 ![](docs/images/europe.jpg)
 
-[[Educational Aims and Objectives of the Course](#Education)]  [[Course workload and assessment](#workload)] [[Timetable 2018-19](#Timetable)] [[Reading List](#Reading List)] [[How to run the practicals elsewhere](#elsewhere)]
+[[Educational Aims and Objectives of the Course](#Education)]  [[Course workload and assessment](#workload)] [[Timetable 2019-20](#Timetable)] [[Reading List](#Reading List)] [[How to run the practicals elsewhere](#elsewhere)]
 
 -----------------------------------
 
@@ -49,10 +49,10 @@ University College London
 |-------  | :--------:|
 | Lectures | 	8|
 |Private Reading 	|80
-|Supervised Laboratory Work (Computing) |	24|
+|Supervised Laboratory Work (Computing) |	22|
 |Independent Laboratory Work (Computing) |	20|
 |Required Written Work |	10|
-|TOTAL |	142|
+|TOTAL |	140|
 
 Usual range 100-150 for 1/2 course unit 
 
@@ -62,7 +62,7 @@ Usual range 100-150 for 1/2 course unit
 
 ##### Assessment
 
-+ 100% Assessed Practical (3500 words) - submission date standard 2nd year submission date i.e. Fri 22th March 2019 (12 noon).
++ 100% Assessed Practical (3500 words) - submission date standard 2nd year submission date i.e. Fri 27th March 2020 (12 noon).
 
 N.B.
 
@@ -72,27 +72,25 @@ N.B.
 -----------------------------------
 
 
-#### <a name="Timetable">Timetable 2018-19</a>
+#### <a name="Timetable">Timetable 2019-20</a>
 
 
-|  | Thursday 09:00-10:00 | Thursday 11:00-12:00 | Friday 16:00-17:00 |
-| -------------------|  -------------------| :-----------------: | :------------------: |
-| Week 1 |  | | 11/1/19 LECTURE 1 [Introduction to course; Environmental Remote Sensing](docs/coursenotes/lecture1.pdf) |
-| Week 2 | 17/1/19 COMPUTING [Image Display](docs/ImageDisplay.ipynb)|17/1/19 COMPUTING [Image Display](docs/ImageDisplay.ipynb)| 18/1/19 LECTURE 2 [Image Display and Enhancement](docs/coursenotes/lecture2.pdf) |
-| Week 3 | 24/1/19 DOWNLOAD [Data download](docs/Download.ipynb)| 24/1/19 COMPUTING [Image Display](docs/ImageDisplay.ipynb)| 25/1/19 LECTURE 3 [Spatial Information](docs/coursenotes/lecture3.pdf) |
-| Week 4  | 31/1/19 COMPUTING 2 [Spatial Filtering](docs/SpatialFiltering.ipynb)| 31/1/19 COMPUTING 2 [Spatial Filtering](docs/SpatialFiltering.ipynb)| 01/2/19 LECTURE 4 [Image Classification](docs/coursenotes/lecture4.pdf) | 
-| Week 5 | 04/2/16 COMPUTING 3 [Classification](docs/Classification.ipynb)| 04/2/16 COMPUTING 3 [Classification](docs/Classification.ipynb)| 05/2/19 LECTURE 5 [Spectral Information](docs/coursenotes/lecture5.pdf) |
-| Week 6 | READING WEEK | READING WEEK | READING WEEK |
-| Week 7 |  21/2/19 COMPUTING 3 [Classification](docs/Classification.ipynb)| 21/2/19 COMPUTING 3 [Classification](docs/Classification.ipynb)| 22/2/19 LECTURE 6 [Environmental Modelling: I](docs/coursenotes/modelling1.pdf) |
-| Week 8 |  28/2/19 COMPUTING 4 [Project](http://proflewis.github.io/GEOG0027_Coursework/)| 28/2/19 COMPUTING 4 [Project](http://proflewis.github.io/GEOG0027_Coursework/)| 1/3/19 LECTURE 6 [Environmental Modelling: II](docs/coursenotes/modelling2.pdf)|
-| Week 9 |  07/3/19 COMPUTING 4 [Project](http://proflewis.github.io/GEOG0027_Coursework/)| 07/3/19 COMPUTING 4 [Project](http://proflewis.github.io/GEOG0027_Coursework/)| 08/3/19 COMPUTING 4 [Project](http://proflewis.github.io/GEOG0027_Coursework/)|
-| Week 10 |  14/3/19 COMPUTING 4 [Project](http://proflewis.github.io/GEOG0027_Coursework/)| 14/3/19 COMPUTING 4 [Project](http://proflewis.github.io/GEOG0027_Coursework/)| 15/3/19 Project Discussion|
-| Week 11 |  21/3/19 COMPUTING 4 [Project](http://proflewis.github.io/GEOG0027_Coursework/)| 21/3/19 COMPUTING 4 [Project](http://proflewis.github.io/GEOG0027_Coursework/)|  No lecture |
+|  | Tuesday 10:00-11:00 | Thursday 11:00-13:00 | Friday 16:00-17:00 |
+| -------------------|  -------------------| :-----------------: | 
+| Week 1 |  14/1/2020 LECTURE 1 [Introduction to course; Environmental Remote Sensing](docs/coursenotes/lecture1.pdf) | 16/1/2020 COMPUTING 1 [Image Display](docs/ImageDisplay.ipynb)|
+| Week 2 | 21/1/2020 LECTURE 2 [Image Display and Enhancement](docs/coursenotes/lecture2.pdf)| 23/1/2020 DOWNLOAD [Data download](docs/Download.ipynb)|
+| Week 3 | 28/1/2020 LECTURE 3 [Spatial Information](docs/coursenotes/lecture3.pdf) | 30/1/2020 COMPUTING 2 [Spatial Filtering](docs/SpatialFiltering.ipynb) |
+| Week 4  | 4/2/2020 NO LECTURE | 04/2/16 COMPUTING 3 [Classification](docs/Classification.ipynb) | 
+| Week 5 | 11/2/2020 LECTURE 4 [Image Classification](docs/coursenotes/lecture4.pdf)| 13/2/2020 COMPUTING 3 [Classification](docs/Classification.ipynb) |
+| Week 6 | READING WEEK | READING WEEK |
+| Week 7 |  25/2/2020 LECTURE 5 [Spectral Information](docs/coursenotes/lecture5.pdf)| 27/2/2020 COMPUTING 3 [Classification](docs/Classification.ipynb)|
+| Week 8 |  3/3/2020 LECTURE 6 [Environmental Modelling: I](docs/coursenotes/lecture6.pdf)| 5/3/2020 COMPUTING 4 [Project](http://proflewis.github.io/GEOG0027_Coursework/)| 
+| Week 9 |  10/3/2020 LECTURE 7 [Environmental Modelling: II](docs/coursenotes/lecture7.pdf)| 12/3/2020 COMPUTING 4 [Project](http://proflewis.github.io/GEOG0027_Coursework/)| 
+| Week 10 |  17/3/2020 LECTURE 8 [Orbits, scale and trade-offs](docs/coursenotes/lecture8.pdf)| 19/3/2020 COMPUTING 4 [Project](http://proflewis.github.io/GEOG0027_Coursework/)| 
+| Week 11 |  24/3/2020 COMPUTING 4 [Project](http://proflewis.github.io/GEOG0027_Coursework/)| 26/3/2020 COMPUTING 4 [Project](http://proflewis.github.io/GEOG0027_Coursework/)|  
 
 
-Lectures in [Pearson G07](https://www.ucl.ac.uk/maps/pearson)
-
-Computing in Pearson Building, UNIX Computer lab, [Pearson 110a](https://www.ucl.ac.uk/maps/pearson)
+Lectures and computing both in Pearson Building, UNIX Computer lab, [Pearson 110a](https://www.ucl.ac.uk/maps/pearson)
 
 
 -----------------------------------
