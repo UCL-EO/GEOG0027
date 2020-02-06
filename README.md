@@ -83,7 +83,7 @@ N.B.
 | Week 4  | 4/2/2020 NO LECTURE | 04/2/16 COMPUTING 3 [Classification](docs/Classification.ipynb) | 
 | Week 5 | 11/2/2020 LECTURE 4 [Image Classification](docs/coursenotes/lecture4.pdf)| 13/2/2020 COMPUTING 3 [Classification](docs/Classification.ipynb) |
 | Week 6 | READING WEEK | READING WEEK |
-| Week 7 | 25/2/2020 LECTURE 5 [Spectral Information](docs/coursenotes/lecture5.pdf)| 27/2/2020 COMPUTING 3 [Classification](docs/Classification.ipynb)|
+| Week 7 | 25/2/2020 LECTURE 5 [Spectral Information](docs/coursenotes/lecture5.pdf)| 27/2/2020 COMPUTING 4 [Project](https://geog0027-coursework.readthedocs.io)|
 | Week 8 | 3/3/2020 LECTURE 6 [Environmental Modelling: I](docs/coursenotes/lecture6.pdf)| 5/3/2020 COMPUTING 4 [Project](https://geog0027-coursework.readthedocs.io)| 
 | Week 9 | 10/3/2020 LECTURE 7 [Environmental Modelling: II](docs/coursenotes/lecture7.pdf)| 12/3/2020 COMPUTING 4 [Project](https://geog0027-coursework.readthedocs.io)| 
 | Week 10 | 17/3/2020 LECTURE 8 [Orbits, scale and trade-offs](docs/coursenotes/lecture8.pdf)| 19/3/2020 COMPUTING 4 [Project](https://geog0027-coursework.readthedocs.io)| 
