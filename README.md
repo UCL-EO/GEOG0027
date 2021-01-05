@@ -75,22 +75,22 @@ N.B.
 #### <a name="Timetable">Timetable 2019-20</a>
 
 
-|  | Tuesday 10:00-11:00 | Thursday 11:00-13:00 |
+|  | Pre-recorded lectures | Monday Live sessions 09:00-10:00 |
 | ------------------- | :-------------------: | :-----------------: | 
-| Week 1 |  14/1/2020 LECTURE 1 [Introduction to course; Environmental Remote Sensing](docs/coursenotes/lecture1-2020.pdf) | 16/1/2020 COMPUTING 1 [Image Display](docs/ImageDisplay.ipynb)|
-| Week 2 | 21/1/2020 LECTURE 2 [Image Display and Enhancement](docs/coursenotes/lecture2.pdf)| 23/1/2020 DOWNLOAD [Data download](docs/Download.ipynb)|
-| Week 3 | 28/1/2020 LECTURE 3 [Spatial Information](docs/coursenotes/lecture3.pdf) | 30/1/2020 COMPUTING 2 [Spatial Filtering](docs/SpatialFiltering.ipynb) |
-| Week 4  | 4/2/2020 NO LECTURE | 04/2/16 COMPUTING 3 [Classification](docs/Classification.ipynb) | 
-| Week 5 | 11/2/2020 LECTURE 4 [Image Classification](docs/coursenotes/lecture4.pdf)| 13/2/2020 COMPUTING 3 [Classification](docs/Classification.ipynb) |
+| Week 1 |  LECTURE 1 [Introduction to course; Environmental Remote Sensing](docs/coursenotes/lecture1-2020.pdf) | 11/1/2020 COMPUTING 1 [Image Display](docs/ImageDisplay.ipynb)|
+| Week 2 | LECTURE 2 [Image Display and Enhancement](docs/coursenotes/lecture2.pdf)| 18/1/2020 DOWNLOAD [Data download](docs/Download.ipynb)|
+| Week 3 | LECTURE 3 [Spatial Information](docs/coursenotes/lecture3.pdf) | 25/1/2020 COMPUTING 2 [Spatial Filtering](docs/SpatialFiltering.ipynb) |
+| Week 4  | LECTURE 4 [Image Classification](docs/coursenotes/lecture4.pdf) | 1/2/16 COMPUTING 3 [Classification](docs/Classification.ipynb) | 
+| Week 5 | LECTURE 5 [Spectral Information](docs/coursenotes/lecture5.pdf) | 8/2/2020 COMPUTING 3 [Classification](docs/Classification.ipynb) |
 | Week 6 | READING WEEK | READING WEEK |
-| Week 7 | 25/2/2020 COMPUTING 4 [Project](https://geog0027-coursework.readthedocs.io) | 27/2/2020 LECTURE 5 [Spectral Information](docs/coursenotes/lecture5.pdf) & LECTURE 6 [Environmental Modelling: I](docs/coursenotes/lecture6-2019.pdf) (including Intro to Coursework)|
-| Week 8 | 3/3/2020 COMPUTING 4 [Project](https://geog0027-coursework.readthedocs.io) | 5/3/2020 COMPUTING 4 [Project](https://geog0027-coursework.readthedocs.io) | 
-| Week 9 | 10/3/2020 COMPUTING 4 [Project](https://geog0027-coursework.readthedocs.io) | 12/3/2020 COMPUTING 4 [Project](https://geog0027-coursework.readthedocs.io)| 
-| Week 10 | 17/3/2020 LECTURE 7 [Environmental Modelling: II](docs/coursenotes/lecture7-2020.pdf) | 19/3/2020 LECTURE 8 [Orbits, scale and trade-offs](docs/coursenotes/lecture8-2020.pdf) & Revision| 
-| Week 11 | 24/3/2020 COMPUTING 4 [Project](https://geog0027-coursework.readthedocs.io)| 26/3/2020 COMPUTING 4 [Project](https://geog0027-coursework.readthedocs.io)|  
+| Week 7 | LECTURE 6 [Environmental Modelling: I](docs/coursenotes/lecture6-2019.pdf) | 22/2/2020  COMPUTING 4 [Project](https://geog0027-coursework.readthedocs.io)|
+| Week 8 | LECTURE 7 [Environmental Modelling: II](docs/coursenotes/lecture7-2020.pdf)  | 01/3/2020 COMPUTING 4 [Project](https://geog0027-coursework.readthedocs.io) | 
+| Week 9 | LECTURE 8 [Orbits, scale and trade-offs](docs/coursenotes/lecture8-2020.pdf) | 08/3/2020 COMPUTING 4 [Project](https://geog0027-coursework.readthedocs.io)| 
+| Week 10 | LECTURE 9 | 15/3/2020 COMPUTING 4 [Project](https://geog0027-coursework.readthedocs.io)| 
+| Week 11 | Revision | 22/3/2020 COMPUTING 4 [Project](https://geog0027-coursework.readthedocs.io)|  
 
 
-Lectures and computing both in Pearson Building, UNIX Computer lab, [Pearson 110a](https://www.ucl.ac.uk/maps/pearson)
+Lectures are pre-recorded and all computing sessions will be avalible through MS Teams on Monday 9:00-10:00. 
 
 
 -----------------------------------
