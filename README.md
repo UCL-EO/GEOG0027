@@ -6,13 +6,13 @@
 
 # GEOG0027 Environmental Remote Sensing
 
-## Course Tutors 2020
+## Course Tutors 2020/21
+
+[Prof. M. Disney](http://www2.geog.ucl.ac.uk/~mdisney)
 
 [Dr Qingling Wu](https://www.geog.ucl.ac.uk/people/research-staff/qingling-wu)
 
 [Prof. P. Lewis](http://www2.geog.ucl.ac.uk/~plewis)
-
-[Prof. M. Disney](http://www2.geog.ucl.ac.uk/~mdisney)
 
 Department of Geography
     
@@ -62,7 +62,7 @@ Usual range 100-150 for 1/2 course unit
 
 ##### Assessment
 
-+ 100% Assessed Practical (3500 words) - submission date standard 2nd year submission date i.e. Fri 27th March 2020 (12 noon).
++ 100% Assessed Practical (3500 words) - submission date standard 2nd year submission date i.e. Fri 26th March 2021 (12 noon).
 
 N.B.
 
