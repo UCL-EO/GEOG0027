@@ -47,9 +47,9 @@ University College London
 
 |Component 	|Hours|
 |-------  | :--------:|
-| Lectures | 	8|
+| Lectures | 	10|
 |Private Reading 	|80
-|Supervised Laboratory Work (Computing) |	22|
+|Supervised Laboratory Work (Computing) |	20|
 |Independent Laboratory Work (Computing) |	20|
 |Required Written Work |	10|
 |TOTAL |	140|
@@ -77,20 +77,21 @@ N.B.
 
 |  | Pre-recorded lectures | Monday Live sessions 09:00-10:00 |
 | ------------------- | :-------------------: | :-----------------: | 
-| Week 1 |  LECTURE 1 [Introduction to course; Environmental Remote Sensing](docs/coursenotes/lecture1-2020.pdf) | 11/1/2021 COMPUTING 1 [Image Display](docs/ImageDisplay.ipynb)|
-| Week 2 | LECTURE 2 [Image Display and Enhancement](docs/coursenotes/lecture2.pdf)| 18/1/2021 DOWNLOAD [Data download](docs/Download.ipynb)|
-| Week 3 | LECTURE 3 [Spatial Information](docs/coursenotes/lecture3.pdf) | 25/1/2021 COMPUTING 2 [Spatial Filtering](docs/SpatialFiltering.ipynb) |
-| Week 4  | LECTURE 4 [Image Classification](docs/coursenotes/lecture4.pdf) | 1/2/2021 COMPUTING 3 [Classification](docs/Classification.ipynb) | 
-| Week 5 | LECTURE 5 [Spectral Information](docs/coursenotes/lecture5.pdf) | 8/2/2021 COMPUTING 3 [Classification](docs/Classification.ipynb) |
+| Week 1 |  LECTURE 1 [Introduction to course; Environmental Remote Sensing](https://moodle.ucl.ac.uk/course/view.php?id=23847&section=5) | 11/1/2021 COMPUTING 1 [Image Display](docs/ImageDisplay.ipynb)|
+| Week 2 | LECTURE 2 [Image Display and Enhancement]| 18/1/2021 DOWNLOAD [Data download](docs/Download.ipynb)|
+| Week 3 | LECTURE 3 [Spatial Information] | 25/1/2021 COMPUTING 2 [Spatial Filtering](docs/SpatialFiltering.ipynb) |
+| Week 4  | LECTURE 4 [Image Classification] | 1/2/2021 COMPUTING 3 [Classification](docs/Classification.ipynb) | 
+| Week 5 | LECTURE 5 [Spectral Information] | 8/2/2021 COMPUTING 3 [Classification](docs/Classification.ipynb) |
 | Week 6 | READING WEEK | READING WEEK |
-| Week 7 | LECTURE 6 [Environmental Modelling: I](docs/coursenotes/lecture6-2019.pdf) | 22/2/2021  COMPUTING 4 [Project](https://geog0027-coursework.readthedocs.io)|
-| Week 8 | LECTURE 7 [Environmental Modelling: II](docs/coursenotes/lecture7-2020.pdf)  | 01/3/2021 COMPUTING 4 [Project](https://geog0027-coursework.readthedocs.io) | 
-| Week 9 | LECTURE 8 [Orbits, scale and trade-offs](docs/coursenotes/lecture8-2020.pdf) | 08/3/2021 COMPUTING 4 [Project](https://geog0027-coursework.readthedocs.io)| 
-| Week 10 | LECTURE 9 | 15/3/2021 COMPUTING 4 [Project](https://geog0027-coursework.readthedocs.io)| 
+| Week 7 | LECTURE 6 [Environmental Modelling: I] | 22/2/2021  COMPUTING 4 Project|
+| Week 8 | LECTURE 7 [Environmental Modelling: II]  | 01/3/2021 COMPUTING 4 Project | 
+| Week 9 | LECTURE 8 [Orbits, scale and trade-offs] | 08/3/2021 COMPUTING 4 Project| 
+| Week 10 | LECTURE 9 | 15/3/2021 COMPUTING 4 Project| 
 | Week 11 | Revision | 22/3/2021 Coursework Q&As |  
 
 
-Lectures are pre-recorded and all computing sessions will be availible through [MS Teams](https://teams.microsoft.com/l/team/19%3a7fe97b7d70084f6ea4ba979d90cc95c9%40thread.tacv2/conversations?groupId=5f67ce51-b3b4-4366-ae95-6ecdb3f09694&tenantId=1faf88fe-a998-4c5b-93c9-210a11d9a5c2) on Monday 9:00-10:00. 
+Lectures are pre-recorded and all computing sessions will be availible through [MS Teams](https://teams.microsoft.com/l/team/19%3a7fe97b7d70084f6ea4ba979d90cc95c9%40thread.tacv2/conversations?groupId=5f67ce51-b3b4-4366-ae95-6ecdb3f09694&tenantId=1faf88fe-a998-4c5b-93c9-210a11d9a5c2) on Monday 9:00-10:00. You will also need to access a Virtual UCL PC during the live sessions through [UCL Desktop Anywhere](https://my.desktop.ucl.ac.uk/). Additional help info can be found at: https://www.ucl.ac.uk/isd/how-to/how-to-log-to-virtual-teaching-pc 
+For ad-hoc use of ENVI software outside of the live hours, it can be accessed from [UCL Desktop Anywhere](https://my.desktop.ucl.ac.uk/). We will use the ENVI 5.5.3  (or ENVI Classic 5.5.3) version for the guided practicals before half term, and then ENVI with IDL for the assessed coursework practical. Although you could install ENVI on your personal computer with UCL license (http://swdb.ucl.ac.uk/package/view/id/142?filter=envi), support will be limited from the teaching staff. We recommend using the Desktop@UCL during the term time for best support and accessibility. 
 
 
 -----------------------------------
