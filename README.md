@@ -72,12 +72,12 @@ N.B.
 -----------------------------------
 
 
-#### <a name="Timetable">Timetable 2019-20</a>
+#### <a name="Timetable">Timetable 2020-21</a>
 
 
 |  | Pre-recorded lectures | Monday Live sessions 09:00-10:00 |
 | ------------------- | :-------------------: | :-----------------: | 
-| Week 1 |  LECTURE 1 [Introduction to course; Environmental Remote Sensing](https://moodle.ucl.ac.uk/course/view.php?id=23847&section=5) | 11/1/2021 COMPUTING 1 [Image Display](docs/ImageDisplay.ipynb)|
+| Week 1 |  LECTURE 1 [Introduction to course](https://moodle.ucl.ac.uk/course/view.php?id=23847&section=5) | 11/1/2021 COMPUTING 1 [Image Display](docs/ImageDisplay.ipynb)|
 | Week 2 | LECTURE 2 [Image Display and Enhancement]| 18/1/2021 DOWNLOAD [Data download](docs/Download.ipynb)|
 | Week 3 | LECTURE 3 [Spatial Information] | 25/1/2021 COMPUTING 2 [Spatial Filtering](docs/SpatialFiltering.ipynb) |
 | Week 4  | LECTURE 4 [Image Classification] | 1/2/2021 COMPUTING 3 [Classification](docs/Classification.ipynb) | 
