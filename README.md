@@ -90,8 +90,12 @@ N.B.
 | Week 11 | Revision | 22/3/2021 Coursework Q&As |  
 
 
-Lectures are pre-recorded and all computing sessions will be availible through [MS Teams](https://teams.microsoft.com/l/team/19%3a7fe97b7d70084f6ea4ba979d90cc95c9%40thread.tacv2/conversations?groupId=5f67ce51-b3b4-4366-ae95-6ecdb3f09694&tenantId=1faf88fe-a998-4c5b-93c9-210a11d9a5c2) on Monday 9:00-10:00. You will also need to access a Virtual UCL PC during the live sessions through [UCL Desktop Anywhere](https://my.desktop.ucl.ac.uk/). Additional help info can be found at: https://www.ucl.ac.uk/isd/how-to/how-to-log-to-virtual-teaching-pc 
-For ad-hoc use of ENVI software outside of the live hours, it can be accessed from [UCL Desktop Anywhere](https://my.desktop.ucl.ac.uk/). We will use the ENVI 5.5.3  (or ENVI Classic 5.5.3) version for the guided practicals before half term, and then ENVI with IDL for the assessed coursework practical. Although you could install ENVI on your personal computer with UCL license (http://swdb.ucl.ac.uk/package/view/id/142?filter=envi), support will be limited from the teaching staff. We recommend using the Desktop@UCL during the term time for best support and accessibility. 
+Lectures for this module are pre-recorded and all computing sessions are available through MS Teams on Monday 9:00-10:00. You will also need to access a Virtual UCL PC during the live sessions through UCL Desktop Anywhere (see help info at https://www.ucl.ac.uk/isd/how-to/how-to-log-to-virtual-teaching-pc). There will be optional drop-in help sessions run by PGTA every Monday and Thursday 10:00-11:00 through the same MS Teams channel. 
+
+#### ENVI Software
+ENVI 5.5.3 will be available to registered students through Virtual UCL PCs during the live sessions via UCL Desktop Anywhere (see help info at https://www.ucl.ac.uk/isd/how-to/how-to-log-to-virtual-teaching-pc). 
+
+For ad-hoc use of ENVI software outside of the live hours, it can be accessed from UCL Desktop Anywhere. We will use the ENVI 5.5.3  (not ENVI Classic 5.5.3) version for the guided practicals before half term, and then ENVI 5.5.3 with IDL for the assessed coursework project. Additionally, you can install ENVI on your personal computer with a UCL license (http://swdb.ucl.ac.uk/package/view/id/142?filter=envi). However, support might be limited from the teaching staff. Thus, we recommend using Desktop@UCL during the term time for best support and accessibility. 
 
 
 -----------------------------------
