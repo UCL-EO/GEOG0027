@@ -86,7 +86,7 @@ N.B.
 | Week 7 | LECTURE 6 [Environmental Modelling: I] | 22/2/2021  COMPUTING 4 Project|
 | Week 8 | LECTURE 7 [Environmental Modelling: II]  | 01/3/2021 COMPUTING 4 Project | 
 | Week 9 | LECTURE 8 [Orbits, scale and trade-offs] | 08/3/2021 COMPUTING 4 Project| 
-| Week 10 | LECTURE 9 | 15/3/2021 COMPUTING 4 Project| 
+| Week 10 | LECTURE 9 TBD | 15/3/2021 COMPUTING 4 Project| 
 | Week 11 | Revision | 22/3/2021 Coursework Q&As |  
 
 
