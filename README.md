@@ -85,9 +85,9 @@ N.B.
 | Week 6 | READING WEEK | READING WEEK |
 | Week 7 | LECTURE 6 [Environmental Modelling: I] | 22/2/2021  COMPUTING 4 Project|
 | Week 8 | LECTURE 7 [Environmental Modelling: II]  | 01/3/2021 COMPUTING 4 Project | 
-| Week 9 | LECTURE 8 [Orbits, scale and trade-offs] | 08/3/2021 COMPUTING 4 Project| 
-| Week 10 | LECTURE 9 TBD | 15/3/2021 COMPUTING 4 Project| 
-| Week 11 | Revision | 22/3/2021 Coursework Q&As |  
+| Week 9 | NO LECTURE | 08/3/2021 COMPUTING 4 Project| 
+| Week 10 | NO LECTURE | 15/3/2021 COMPUTING 4 Project| 
+| Week 11 | NO LECTURE | 22/3/2021 Coursework Q&As |  
 
 
 Lectures for this module are pre-recorded and all computing sessions are available through MS Teams on Monday 9:00-10:00. You will also need to access a Virtual UCL PC during the live sessions through UCL Desktop Anywhere (see help info at https://www.ucl.ac.uk/isd/how-to/how-to-log-to-virtual-teaching-pc). There will be optional drop-in help sessions run by PGTA every Monday and Thursday 10:00-11:00 through the same MS Teams channel. 
