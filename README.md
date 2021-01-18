@@ -79,7 +79,7 @@ N.B.
 | ------------------- | :-------------------: | :-----------------: | 
 | Week 1 |  LECTURE 1 [Introduction to course](https://moodle.ucl.ac.uk/course/view.php?id=23847&section=5) | 11/1/2021 COMPUTING 1 [Image Display](docs/ImageDisplay.ipynb) ([recording](https://web.microsoftstream.com/video/70dcf5b3-28a3-4d5a-94f0-604acc0eab3c))|
 | Week 2 | LECTURE 2 [Image Display and Enhancement](https://moodle.ucl.ac.uk/course/view.php?id=23847&section=6) | 18/1/2021 DOWNLOAD [Data download](docs/Download.ipynb)|
-| Week 3 | LECTURE 3 [Spatial Information] | 25/1/2021 COMPUTING 2 [Spatial Filtering](docs/SpatialFiltering.ipynb) |
+| Week 3 | LECTURE 3 [Spatial Information](https://moodle.ucl.ac.uk/course/view.php?id=23847&section=7) | 25/1/2021 COMPUTING 2 [Spatial Filtering](docs/SpatialFiltering.ipynb) |
 | Week 4  | LECTURE 4 [Image Classification] | 1/2/2021 COMPUTING 3 [Classification](docs/Classification.ipynb) | 
 | Week 5 | LECTURE 5 [Spectral Information] | 8/2/2021 COMPUTING 3 [Classification](docs/Classification.ipynb) |
 | Week 6 | READING WEEK | READING WEEK |
