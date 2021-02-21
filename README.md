@@ -81,9 +81,9 @@ N.B.
 | Week 2 | LECTURE 2 [Image Display and Enhancement](https://moodle.ucl.ac.uk/course/view.php?id=23847&section=6) | 18/1/2021 DOWNLOAD [Data download](docs/Download.ipynb) ([recording](https://web.microsoftstream.com/video/20cc314f-dae2-4f35-9097-73eaaa343a11))|
 | Week 3 | LECTURE 3 [Spatial Information](https://moodle.ucl.ac.uk/course/view.php?id=23847&section=7) | 25/1/2021 COMPUTING 2 [Spatial Filtering](docs/SpatialFiltering.ipynb) ([recording](https://web.microsoftstream.com/video/cb79e344-b61c-40c1-a9c6-004e97dffb0d))|
 | Week 4  | LECTURE 4 [Image Classification](https://moodle.ucl.ac.uk/course/view.php?id=23847&section=8) | 1/2/2021 COMPUTING 3 [Classification](docs/Classification.ipynb) ([recording](https://web.microsoftstream.com/video/c7723ba3-9f7a-46f2-9fde-4f54714b7466))| 
-| Week 5 | LECTURE 5 [Spectral Information](https://moodle.ucl.ac.uk/course/view.php?id=23847&section=9) | 8/2/2021 COMPUTING 3 [Classification](docs/Classification.ipynb) |
+| Week 5 | LECTURE 5 [Spectral Information](https://moodle.ucl.ac.uk/course/view.php?id=23847&section=9) | 8/2/2021 COMPUTING 3 [Classification](docs/Classification.ipynb) Q&A ([recording](https://web.microsoftstream.com/video/1b5c7a74-7b3c-46b1-8a99-f1527ac8fab8)) |
 | Week 6 | READING WEEK | READING WEEK |
-| Week 7 | LECTURE 6 [Environmental Modelling: I](https://moodle.ucl.ac.uk/course/view.php?id=23847&section=10) | 22/2/2021  COMPUTING 4 Project|
+| Week 7 | LECTURE 6 [Environmental Modelling: I](https://moodle.ucl.ac.uk/course/view.php?id=23847&section=10) | 22/2/2021  COMPUTING 4 [Project](https://github.com/qwu-570/GEOG0027_Coursework/tree/2020-2021)|
 | Week 8 | LECTURE 7 [Environmental Modelling: II](https://moodle.ucl.ac.uk/course/view.php?id=23847&section=11)  | 01/3/2021 COMPUTING 4 Project | 
 | Week 9 | NO LECTURE | 08/3/2021 COMPUTING 4 Project| 
 | Week 10 | NO LECTURE | 15/3/2021 COMPUTING 4 Project| 
