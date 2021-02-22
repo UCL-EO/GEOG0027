@@ -62,7 +62,8 @@ Usual range 100-150 for 1/2 course unit
 
 ##### Assessment
 
-+ 100% Assessed Practical (3500 words) - submission date standard 2nd year submission date i.e. Fri 26th March 2021 (12 noon).
++ 100% Assessed Practical (3500 words) - submission date standard 2nd year submission date i.e. Mon 26th April 2021 (12 noon).
++ For details of the coursework, please see [https://github.com/qwu-570/GEOG0027_Coursework/tree/2020-2021](https://github.com/qwu-570/GEOG0027_Coursework/tree/2020-2021) or READ-ONLY VERSION at [ReadTheDocs](https://geog0027-coursework-2020-2021.readthedocs.io/en/latest/)
 
 N.B.
 
@@ -83,7 +84,7 @@ N.B.
 | Week 4  | LECTURE 4 [Image Classification](https://moodle.ucl.ac.uk/course/view.php?id=23847&section=8) | 1/2/2021 COMPUTING 3 [Classification](docs/Classification.ipynb) ([recording](https://web.microsoftstream.com/video/c7723ba3-9f7a-46f2-9fde-4f54714b7466))| 
 | Week 5 | LECTURE 5 [Spectral Information](https://moodle.ucl.ac.uk/course/view.php?id=23847&section=9) | 8/2/2021 COMPUTING 3 [Classification](docs/Classification.ipynb) Q&A ([recording](https://web.microsoftstream.com/video/1b5c7a74-7b3c-46b1-8a99-f1527ac8fab8)) |
 | Week 6 | READING WEEK | READING WEEK |
-| Week 7 | LECTURE 6 [Environmental Modelling: I](https://moodle.ucl.ac.uk/course/view.php?id=23847&section=10) | 22/2/2021  COMPUTING 4 [Project](https://github.com/qwu-570/GEOG0027_Coursework/tree/2020-2021)|
+| Week 7 | LECTURE 6 [Environmental Modelling: I](https://moodle.ucl.ac.uk/course/view.php?id=23847&section=10) | 22/2/2021  COMPUTING 4 [Project](https://github.com/qwu-570/GEOG0027_Coursework/tree/2020-2021) ([recording: Coursework & GEE classification](https://web.microsoftstream.com/video/432b3ee6-6282-4bb3-9794-b8bcd773819b))|
 | Week 8 | LECTURE 7 [Environmental Modelling: II](https://moodle.ucl.ac.uk/course/view.php?id=23847&section=11)  | 01/3/2021 COMPUTING 4 Project | 
 | Week 9 | NO LECTURE | 08/3/2021 COMPUTING 4 Project| 
 | Week 10 | NO LECTURE | 15/3/2021 COMPUTING 4 Project| 
