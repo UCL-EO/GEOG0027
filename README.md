@@ -86,7 +86,7 @@ N.B.
 | Week 6 | READING WEEK | READING WEEK |
 | Week 7 | LECTURE 6 [Environmental Modelling: I](https://moodle.ucl.ac.uk/course/view.php?id=23847&section=10) | 22/2/2021  COMPUTING 4 [Project](https://github.com/qwu-570/GEOG0027_Coursework/tree/2020-2021) ([recording: Coursework & GEE classification](https://web.microsoftstream.com/video/432b3ee6-6282-4bb3-9794-b8bcd773819b))|
 | Week 8 | LECTURE 7 [Environmental Modelling: II](https://moodle.ucl.ac.uk/course/view.php?id=23847&section=11)  | 01/3/2021 COMPUTING 4 Project ([recording: Coursework & R modelling](https://web.microsoftstream.com/video/2c3da9a9-e702-48a2-84ee-7fe59d6b6fea)) | 
-| Week 9 | NO LECTURE | 08/3/2021 COMPUTING 4 Project| 
+| Week 9 | NO LECTURE | 08/3/2021 COMPUTING 4 Project ([recording: Coursework & ENVI IDL classification](https://web.microsoftstream.com/video/5a6791bf-c86c-4a22-a69c-060bd79c1758))| 
 | Week 10 | NO LECTURE | 15/3/2021 COMPUTING 4 Project| 
 | Week 11 | NO LECTURE | 22/3/2021 Coursework Q&As |  
 
