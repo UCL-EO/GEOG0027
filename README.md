@@ -87,8 +87,8 @@ N.B.
 | Week 7 | LECTURE 6 [Environmental Modelling: I](https://moodle.ucl.ac.uk/course/view.php?id=23847&section=10) | 22/2/2021  COMPUTING 4 [Project](https://github.com/qwu-570/GEOG0027_Coursework/tree/2020-2021) ([recording: Coursework & GEE classification](https://web.microsoftstream.com/video/432b3ee6-6282-4bb3-9794-b8bcd773819b))|
 | Week 8 | LECTURE 7 [Environmental Modelling: II](https://moodle.ucl.ac.uk/course/view.php?id=23847&section=11)  | 01/3/2021 COMPUTING 4 Project ([recording: Coursework & R modelling](https://web.microsoftstream.com/video/2c3da9a9-e702-48a2-84ee-7fe59d6b6fea)) | 
 | Week 9 | NO LECTURE | 08/3/2021 COMPUTING 4 Project ([recording: Coursework & ENVI IDL classification](https://web.microsoftstream.com/video/5a6791bf-c86c-4a22-a69c-060bd79c1758))| 
-| Week 10 | NO LECTURE | 15/3/2021 COMPUTING 4 Project ([recording: Coursework Q&A](https://web.microsoftstream.com/video/dfd3c0e2-7afd-4b35-80a9-9da1c1eea235))| 
-| Week 11 | NO LECTURE | 22/3/2021 Coursework Q&As |  
+| Week 10 | NO LECTURE | 15/3/2021 COMPUTING 4 Project ([recording: Coursework Q&As](https://web.microsoftstream.com/video/dfd3c0e2-7afd-4b35-80a9-9da1c1eea235))| 
+| Week 11 | NO LECTURE | 22/3/2021 Coursework Q&As ([recording: Coursework Q&A cont.](https://web.microsoftstream.com/video/67a7ac89-4c06-4b96-a726-44a8f67aac5d))|  
 
 
 Lectures for this module are pre-recorded and all computing sessions are available through MS Teams on Monday 9:00-10:00. You will also need to access a Virtual UCL PC during the live sessions through UCL Desktop Anywhere (see help info at https://www.ucl.ac.uk/isd/how-to/how-to-log-to-virtual-teaching-pc). There will be optional drop-in help sessions run by PGTA every Monday and Thursday 10:00-11:00 through the same MS Teams channel. 
