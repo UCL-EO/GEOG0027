@@ -21,7 +21,7 @@ University College London
     
 ![](docs/images/europe.jpg)
 
-[[Educational Aims and Objectives of the Course](#Education)]  [[Course workload and assessment](#workload)] [Timetable 2019-20](#Timetable)] [[Reading List](#Reading List)] [[How to run the practicals elsewhere](#elsewhere)]
+[[Educational Aims and Objectives of the Course](#Education)]  [[Course workload and assessment](#workload)] [[Timetable 2019-20](#Timetable)] [[Reading List](#Reading List)] [[How to run the practicals elsewhere](#elsewhere)]
 
 -----------------------------------
 
@@ -92,7 +92,7 @@ N.B.
 
 []( computing sessions are available through MS Teams on Monday 9:00-10:00. )
 
-If teaching shifts to online because of covid, need to access a Virtual UCL PC during the live sessions through UCL Desktop Anywhere (see help info at https://www.ucl.ac.uk/isd/how-to/how-to-log-to-virtual-teaching-pc). There will be optional drop-in help sessions run by PGTA every Monday and Thursday 10:00-11:00 through the same MS Teams channel. 
+If teaching shifts to online at because of covid, need to access a Virtual UCL PC during the live sessions through UCL Desktop Anywhere (see help info at https://www.ucl.ac.uk/isd/how-to/how-to-log-to-virtual-teaching-pc). There will be optional drop-in help sessions run by PGTA every Monday and Thursday 10:00-11:00 through the same MS Teams channel. 
 
 #### ENVI Software
 ENVI 5.5.3 will be available to registered students through Virtual UCL PCs during the live sessions via UCL Desktop Anywhere (see help info at https://www.ucl.ac.uk/isd/how-to/how-to-log-to-virtual-teaching-pc). 
