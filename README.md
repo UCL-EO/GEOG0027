@@ -12,7 +12,7 @@
 
 [Dr Harry Heorton](https://www.geog.ucl.ac.uk/people)
 
-V  ok horse convenor, but not teaching this year. [Prof. P. Lewis](http://www2.geog.ucl.ac.uk/~plewis)
+Course convenor, but not teaching this year. [Prof. P. Lewis](http://www2.geog.ucl.ac.uk/~plewis)
 
 Department of Geography
     
