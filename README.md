@@ -21,7 +21,7 @@ University College London
     
 ![](docs/images/europe.jpg)
 
-[[Educational Aims and Objectives of the Course](#Education)]  [[Course workload and assessment](#workload)] [[Timetable 2019-20](#Timetable)] [[Reading List](#Reading List)] [[How to run the practicals elsewhere](#elsewhere)]
+[[Educational Aims and Objectives of the Course](#Education)]  [[Course workload and assessment](#workload)] [Timetable 2019-20](#Timetable)] [[Reading List](#Reading List)] [[How to run the practicals elsewhere](#elsewhere)]
 
 -----------------------------------
 
