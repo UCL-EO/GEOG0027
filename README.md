@@ -12,7 +12,7 @@
 
 [Dr Harry Heorton](https://www.geog.ucl.ac.uk/people)
 
-[Prof. P. Lewis](http://www2.geog.ucl.ac.uk/~plewis)
+V  ok horse convenor, but not teaching this year. [Prof. P. Lewis](http://www2.geog.ucl.ac.uk/~plewis)
 
 Department of Geography
     
@@ -105,7 +105,7 @@ For ad-hoc use of ENVI software outside of the live hours, it can be accessed fr
 
 #### <a name="Reading List">Reading List</a>
 
-- Jensen, John R. (2006) Remote Sensing of the Environment: an Earth Resources Perspective, Hall and Prentice, New Jersey, 2nd ed.
+- Jensen, John R. (2006) Remote iSensing of the Environment: an Earth Resources Perspective, Hall and Prentice, New Jersey, 2nd ed.
 - Jensen, John R. (1995, 2004) Introductory Digital Image Processing: A Remote Sensing Perspective (Prentice Hall Series in Geographic Information Science)
 - Jones, H. G and Vaughan, R. A. (2010) Remote Sensing of Vegetation, OUP, Oxford.
 - Lillesand, T., Kiefer, R. and Chipman, J. (2004) Remote Sensing and Image Interpretation. John Wiley and Sons, NY, 5th ed.
