@@ -6,11 +6,11 @@
 
 # GEOG0027 Environmental Remote Sensing
 
-## Course Tutors 2020/21
+## Course Tutors 2021/22
 
 [Prof. M. Disney](http://www2.geog.ucl.ac.uk/~mdisney)
 
-[Dr Qingling Wu](https://www.geog.ucl.ac.uk/people/research-staff/qingling-wu)
+[Dr Harry Heorton](https://www.geog.ucl.ac.uk/people)
 
 [Prof. P. Lewis](http://www2.geog.ucl.ac.uk/~plewis)
 
@@ -90,8 +90,9 @@ N.B.
 | Week 10 | NO LECTURE | 15/3/2021 COMPUTING 4 Project ([recording: Coursework Q&As](https://web.microsoftstream.com/video/dfd3c0e2-7afd-4b35-80a9-9da1c1eea235))| 
 | Week 11 | NO LECTURE | 22/3/2021 Coursework Q&As ([recording: Coursework Q&A cont.](https://web.microsoftstream.com/video/67a7ac89-4c06-4b96-a726-44a8f67aac5d))|  
 
+[]( computing sessions are available through MS Teams on Monday 9:00-10:00. )
 
-Lectures for this module are pre-recorded and all computing sessions are available through MS Teams on Monday 9:00-10:00. You will also need to access a Virtual UCL PC during the live sessions through UCL Desktop Anywhere (see help info at https://www.ucl.ac.uk/isd/how-to/how-to-log-to-virtual-teaching-pc). There will be optional drop-in help sessions run by PGTA every Monday and Thursday 10:00-11:00 through the same MS Teams channel. 
+If teaching shifts to online because of covid, need to access a Virtual UCL PC during the live sessions through UCL Desktop Anywhere (see help info at https://www.ucl.ac.uk/isd/how-to/how-to-log-to-virtual-teaching-pc). There will be optional drop-in help sessions run by PGTA every Monday and Thursday 10:00-11:00 through the same MS Teams channel. 
 
 #### ENVI Software
 ENVI 5.5.3 will be available to registered students through Virtual UCL PCs during the live sessions via UCL Desktop Anywhere (see help info at https://www.ucl.ac.uk/isd/how-to/how-to-log-to-virtual-teaching-pc). 
