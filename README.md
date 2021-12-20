@@ -19,9 +19,9 @@ Department of Geography
 University College London
     
     
-![](docs/images/europe.jpg)
+[[Educational Aims and Objectives of the Course](#Education)]  [[Course workload and assessment](#workload)]  [[Timetable 2021-22](#Timetable)]   [[Reading List](#ReadingList)]
 
-[[Educational Aims and Objectives of the Course](#Education)]  [[Course workload and assessment](#workload)] [[Timetable 2019-20](#Timetable)] [[Reading List](#Reading List)] [[How to run the practicals elsewhere](#elsewhere)]
+![](docs/images/europe.jpg)
 
 -----------------------------------
 
@@ -73,29 +73,29 @@ N.B.
 -----------------------------------
 
 
-#### <a name="Timetable">Timetable 2020-21</a>
+#### <a name="Timetable">Timetable 2021-22</a>
 
 
-|  | Pre-recorded lectures | Monday Live sessions 09:00-10:00 |
+|  | Monday Lecture 11:00-12:00 | Thursday Practical 09:00-11:00 |
 | ------------------- | :-------------------: | :-----------------: | 
-| Week 1 |  LECTURE 1 [Introduction to course](https://moodle.ucl.ac.uk/course/view.php?id=23847&section=5) | 11/1/2021 COMPUTING 1 [Image Display](docs/ImageDisplay.ipynb) ([recording](https://web.microsoftstream.com/video/70dcf5b3-28a3-4d5a-94f0-604acc0eab3c))|
-| Week 2 | LECTURE 2 [Image Display and Enhancement](https://moodle.ucl.ac.uk/course/view.php?id=23847&section=6) | 18/1/2021 DOWNLOAD [Data download](docs/Download.ipynb) ([recording](https://web.microsoftstream.com/video/20cc314f-dae2-4f35-9097-73eaaa343a11))|
-| Week 3 | LECTURE 3 [Spatial Information](https://moodle.ucl.ac.uk/course/view.php?id=23847&section=7) | 25/1/2021 COMPUTING 2 [Spatial Filtering](docs/SpatialFiltering.ipynb) ([recording](https://web.microsoftstream.com/video/cb79e344-b61c-40c1-a9c6-004e97dffb0d))|
-| Week 4  | LECTURE 4 [Image Classification](https://moodle.ucl.ac.uk/course/view.php?id=23847&section=8) | 1/2/2021 COMPUTING 3 [Classification](docs/Classification.ipynb) ([recording](https://web.microsoftstream.com/video/c7723ba3-9f7a-46f2-9fde-4f54714b7466))| 
-| Week 5 | LECTURE 5 [Spectral Information](https://moodle.ucl.ac.uk/course/view.php?id=23847&section=9) | 8/2/2021 COMPUTING 3 [Classification](docs/Classification.ipynb) Q&A ([recording](https://web.microsoftstream.com/video/1b5c7a74-7b3c-46b1-8a99-f1527ac8fab8)) |
+| Week 1 |  LECTURE 1 [Introduction to course](https://moodle.ucl.ac.uk/course/view.php?id=23847&section=5) | 13/1/2022 COMPUTING 1 [Image Display](docs/ImageDisplay.ipynb) |
+| Week 2 | LECTURE 2 [Image Display and Enhancement](https://moodle.ucl.ac.uk/course/view.php?id=23847&section=6) | 20/1/2022 DOWNLOAD [Data download](docs/Download.ipynb) |
+| Week 3 | LECTURE 3 [Spatial Information](https://moodle.ucl.ac.uk/course/view.php?id=23847&section=7) | 27/1/2022 COMPUTING 2 [Spatial Filtering](docs/SpatialFiltering.ipynb) |
+| Week 4  | LECTURE 4 [Image Classification](https://moodle.ucl.ac.uk/course/view.php?id=23847&section=8) | 3/2/2022 COMPUTING 3 [Classification](docs/Classification.ipynb) | 
+| Week 5 | LECTURE 5 [Spectral Information](https://moodle.ucl.ac.uk/course/view.php?id=23847&section=9) | 10/2/2022 COMPUTING 3 [Classification](docs/Classification.ipynb)  |
 | Week 6 | READING WEEK | READING WEEK |
-| Week 7 | LECTURE 6 [Environmental Modelling: I](https://moodle.ucl.ac.uk/course/view.php?id=23847&section=10) | 22/2/2021  COMPUTING 4 [Project](https://github.com/qwu-570/GEOG0027_Coursework/tree/2020-2021) ([recording: Coursework & GEE classification](https://web.microsoftstream.com/video/432b3ee6-6282-4bb3-9794-b8bcd773819b))|
-| Week 8 | LECTURE 7 [Environmental Modelling: II](https://moodle.ucl.ac.uk/course/view.php?id=23847&section=11)  | 01/3/2021 COMPUTING 4 Project ([recording: Coursework & R modelling](https://web.microsoftstream.com/video/2c3da9a9-e702-48a2-84ee-7fe59d6b6fea)) | 
-| Week 9 | NO LECTURE | 08/3/2021 COMPUTING 4 Project ([recording: Coursework & ENVI IDL classification](https://web.microsoftstream.com/video/5a6791bf-c86c-4a22-a69c-060bd79c1758))| 
-| Week 10 | NO LECTURE | 15/3/2021 COMPUTING 4 Project ([recording: Coursework Q&As](https://web.microsoftstream.com/video/dfd3c0e2-7afd-4b35-80a9-9da1c1eea235))| 
-| Week 11 | NO LECTURE | 22/3/2021 Coursework Q&As ([recording: Coursework Q&A cont.](https://web.microsoftstream.com/video/67a7ac89-4c06-4b96-a726-44a8f67aac5d))|  
+| Week 7 | LECTURE 6 [Environmental Modelling: I](https://moodle.ucl.ac.uk/course/view.php?id=23847&section=10) | 24/2/2022  COMPUTING 4 [Project](https://github.com/UCL-EO/GEOG0027_Coursework/tree/2021-2022) |
+| Week 8 | LECTURE 7 [Environmental Modelling: II](https://moodle.ucl.ac.uk/course/view.php?id=23847&section=11)  | 3/3/2022 COMPUTING 4 [Project](https://github.com/UCL-EO/GEOG0027_Coursework/tree/2021-2022)| 
+| Week 9 | 7/3/2021 COMPUTING 4 [Project](https://github.com/UCL-EO/GEOG0027_Coursework/tree/2021-2022) | 10/3/2021 COMPUTING 4 [Project](https://github.com/UCL-EO/GEOG0027_Coursework/tree/2021-2022)| 
+| Week 10 | 14/3/2021 COMPUTING 4 [Project](https://github.com/UCL-EO/GEOG0027_Coursework/tree/2021-2022)| 17/3/2021 COMPUTING 4 [Project](https://github.com/UCL-EO/GEOG0027_Coursework/tree/2021-2022)| 
+| Week 11 | 21/3/2021 COMPUTING 4 [Project](https://github.com/UCL-EO/GEOG0027_Coursework/tree/2021-2022) | 24/3/2021 COMPUTING 4  [Project](https://github.com/UCL-EO/GEOG0027_Coursework/tree/2021-2022)|  
 
-[]( computing sessions are available through MS Teams on Monday 9:00-10:00. )
+Assuming we remain with face-to-face teaching this term, Monday sessions are in Cruciform B304-LT1 and Thursday practical sessions will be in North West Wing Room 110 ('Unix lab').
 
-If teaching shifts to online at because of covid, need to access a Virtual UCL PC during the live sessions through UCL Desktop Anywhere (see help info at https://www.ucl.ac.uk/isd/how-to/how-to-log-to-virtual-teaching-pc). There will be optional drop-in help sessions run by PGTA every Monday and Thursday 10:00-11:00 through the same MS Teams channel. 
+If teaching shifts to online at because of covid, need to access a Virtual UCL PC during the live sessions through UCL Desktop Anywhere (see help info at https://www.ucl.ac.uk/isd/how-to/how-to-log-to-virtual-teaching-pc). 
 
 #### ENVI Software
-ENVI 5.5.3 will be available to registered students through Virtual UCL PCs during the live sessions via UCL Desktop Anywhere (see help info at https://www.ucl.ac.uk/isd/how-to/how-to-log-to-virtual-teaching-pc). 
+ENVI 5.5.3 is available to registered students through Virtual UCL PCs during the live sessions via UCL Desktop Anywhere (see help info at https://www.ucl.ac.uk/isd/how-to/how-to-log-to-virtual-teaching-pc). 
 
 For ad-hoc use of ENVI software outside of the live hours, it can be accessed from UCL Desktop Anywhere. We will use the ENVI 5.5.3  (not ENVI Classic 5.5.3) version for the guided practicals before half term, and then ENVI 5.5.3 with IDL for the assessed coursework project. Additionally, you can install ENVI on your personal computer with a UCL license (http://swdb.ucl.ac.uk/package/view/id/142?filter=envi). However, support might be limited from the teaching staff. Thus, we recommend using Desktop@UCL during the term time for best support and accessibility. 
 
@@ -103,7 +103,7 @@ For ad-hoc use of ENVI software outside of the live hours, it can be accessed fr
 -----------------------------------
 
 
-#### <a name="Reading List">Reading List</a>
+#### <a name="ReadingList">Reading List</a>
 
 - Jensen, John R. (2006) Remote iSensing of the Environment: an Earth Resources Perspective, Hall and Prentice, New Jersey, 2nd ed.
 - Jensen, John R. (1995, 2004) Introductory Digital Image Processing: A Remote Sensing Perspective (Prentice Hall Series in Geographic Information Science)
