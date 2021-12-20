@@ -63,7 +63,7 @@ Usual range 100-150 for 1/2 course unit
 ##### Assessment
 
 + 100% Assessed Practical (3500 words) - submission date standard 2nd year submission date i.e. Mon 26th April 2021 (12 noon).
-+ For details of the coursework, please see [https://github.com/qwu-570/GEOG0027_Coursework/tree/2020-2021](https://github.com/qwu-570/GEOG0027_Coursework/tree/2020-2021) or READ-ONLY VERSION at [ReadTheDocs](https://geog0027-coursework-2020-2021.readthedocs.io/en/latest/)
++ For details of the coursework, please see [https://github.com/UCL-EO/GEOG0027_Coursework/tree/2020-2021](https://github.com/UCL-EO/GEOG0027_Coursework/tree/2020-2021) or READ-ONLY VERSION at [ReadTheDocs](https://geog0027-coursework-2020-2021.readthedocs.io/en/latest/)
 
 N.B.
 
