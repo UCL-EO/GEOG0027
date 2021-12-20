@@ -79,7 +79,7 @@ N.B.
 |  | Monday Lecture 11:00-12:00 | Thursday Practical 09:00-11:00 |
 | ------------------- | :-------------------: | :-----------------: | 
 | Week 1 |  LECTURE 1 [Introduction to course](https://moodle.ucl.ac.uk/course/view.php?id=23847&section=5) | 13/1/2022 COMPUTING 1 [Image Display](docs/ImageDisplay.ipynb) |
-| Week 2 | LECTURE 2 [Image Display and Enhancement](https://moodle.ucl.ac.uk/course/view.php?id=23847&section=6) | 20/1/2022 DOWNLOAD [Data download](docs/Download.ipynb) |
+| Week 2 | LECTURE 2 [Image Display and Enhancement](https://moodle.ucl.ac.uk/course/view.php?id=23847&section=6) | 20/1/2022 [Image Display](docs/ImageDisplay.ipynb) DOWNLOAD [Data download](docs/Download.ipynb) |
 | Week 3 | LECTURE 3 [Spatial Information](https://moodle.ucl.ac.uk/course/view.php?id=23847&section=7) | 27/1/2022 COMPUTING 2 [Spatial Filtering](docs/SpatialFiltering.ipynb) |
 | Week 4  | LECTURE 4 [Image Classification](https://moodle.ucl.ac.uk/course/view.php?id=23847&section=8) | 3/2/2022 COMPUTING 3 [Classification](docs/Classification.ipynb) | 
 | Week 5 | LECTURE 5 [Spectral Information](https://moodle.ucl.ac.uk/course/view.php?id=23847&section=9) | 10/2/2022 COMPUTING 3 [Classification](docs/Classification.ipynb)  |
