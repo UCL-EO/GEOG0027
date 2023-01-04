@@ -1,29 +1,31 @@
-.. figure:: https://github.com/profLewis/Geog2021_Coursework/blob/master/images/ucl_logo.png?raw=true
+.. figure:: docs/images//ucl_logo.png
    :alt: UCL
 
    UCL
 
+|Binder|
+
+`ReadTheDocs <https://geog0027-environmental-remote-sensing.readthedocs.io/en/latest/>`__
+
 GEOG0027 Environmental Remote Sensing
 =====================================
 
-Course Tutors
--------------
+Course Tutors 2022/23
+---------------------
 
-`Prof. P. Lewis`_
+`Prof. M. Disney <http://www2.geog.ucl.ac.uk/~mdisney>`__
 
-`Prof. M. Disney`_
-
-`Dr Qingling Wu`_
+`Dr Harry Heorton <mailto:h.heorton@ucl.ac.uk>`__
 
 Department of Geography
 
 University College London
 
-|image0|
+[`Educational Aims and Objectives of the Course <#Education>`__]
+[`Course workload and assessment <#workload>`__] [`Timetable
+2022-23 <#Timetable>`__] [`Reading List <#ReadingList>`__]
 
-[`Educational Aims and Objectives of the Course`_] [`Course workload and
-assessment`_] [`Timetable 2015-16`_] [`Reading List`_] [`How to run the
-practicals elsewhere`_]
+.. image:: docs/images/europe.jpg
 
 --------------
 
@@ -38,15 +40,14 @@ To enable the students to:
    missions
 -  Understand basic image representation and processing
 -  Understand how Earth Observation data can be combined with other
-   sources of data and data techniques (e.g. GIS)
+   sources of data and data techniques (e.g. GIS)
 -  Understand how EO data can be used in environmental science
    (particularly via classification and monitoring)
 -  Develop practical skills in these areas, which may be useful in
    planning of dissertations
 -  Develop links with the second year course on Geographic Information
    Systems Science and with othet courses as appropriate
-   (e.g. hydrology, environmental systems)
--  Lay the foundations for the third year course on Earth Observation
+   (e.g. hydrology, environmental systems)
 
 --------------
 
@@ -59,12 +60,12 @@ Expected Course Load
 ======================================= =====
 Component                               Hours
 ======================================= =====
-Lectures                                8
+Lectures                                10
 Private Reading                         80
-Supervised Laboratory Work (Computing)  24
+Supervised Laboratory Work (Computing)  20
 Independent Laboratory Work (Computing) 20
 Required Written Work                   10
-TOTAL                                   142
+TOTAL                                   140
 ======================================= =====
 
 Usual range 100-150 for 1/2 course unit
@@ -74,8 +75,11 @@ Usual range 100-150 for 1/2 course unit
 Assessment
 ''''''''''
 
--  100% Assessed Practical (3500 words) - submission date standard 2nd
-   year submission date i.e. Fri 22th March 2019 (12 noon).
+-  100% Assessed Practical (3000 words) - submission date standard 2nd
+   year submission date i.e. Mon 24th April 2023 (12 noon).
+-  For details of the coursework, please see
+   https://github.com/UCL-EO/GEOG0027_Coursework or READ-ONLY VERSION at
+   `ReadTheDocs <https://geog0027-coursework-2020-2021.readthedocs.io/en/latest/>`__
 
 N.B.
 
@@ -85,86 +89,120 @@ N.B.
 
 --------------
 
-.. _Prof. P. Lewis: http://www2.geog.ucl.ac.uk/~plewis
-.. _Prof. M. Disney: http://www2.geog.ucl.ac.uk/~mdisney
-.. _Dr Qingling Wu: https://www.geog.ucl.ac.uk/people/research-staff/qingling-wu
-.. _Educational Aims and Objectives of the Course: #Education
-.. _Course workload and assessment: #workload
-.. _Timetable 2015-16: #Timetable
-.. _Reading List: #Reading%20List
-.. _How to run the practicals elsewhere: #elsewhere
-
-.. |image0| image:: images/europe.jpg
-
-Timetable 2014-15
+Timetable 2021-22
 ^^^^^^^^^^^^^^^^^
 
-+----------------+----------------+----------------+-----------------+
-|                | Thursday       | Thursday       | Friday          |
-|                | 09:00-10:00    | 11:00-12:00    | 16:00-17:00     |
-+================+================+================+=================+
-| Week 1         |                |                | 11/1/19 LECTURE |
-|                |                |                | 1 `Introduction |
-|                |                |                | to course;      |
-|                |                |                | Environmental   |
-|                |                |                | Remote          |
-|                |                |                | Sensing`_       |
-+----------------+----------------+----------------+-----------------+
-| Week 2         | 17/1/19        | 17/1/19        | 18/1/19 LECTURE |
-|                | COMPUTING      | COMPUTING      | 2 `Image        |
-|                | `Image         | `Image         | Display and     |
-|                | Display`_    | Display`_      | Enhancement`_   |
-+----------------+----------------+----------------+-----------------+
-| Week 3         | 24/1/19        | 24/1/19        | 25/1/19 LECTURE |
-|                | COMPUTING 2a   | COMPUTING 2    | 3 `Spatial      |
-|                | `Data          | `Image         | Information`_   |
-|                | download`_     | Display`_      |                 |
-+----------------+----------------+----------------+-----------------+
-| Week 4         | 31/1/19        | 31/1/19        | 01/2/19 LECTURE |
-|                | COMPUTING 2    | COMPUTING 2    | 4 `Image        |
-|                | `Spatial       | `Spatial       | Classification` |
-|                | Filtering`_    | Filtering`_    | _               |
-+----------------+----------------+----------------+-----------------+
-| Week 5         | 04/2/16        | 04/2/16        | 05/2/19 LECTURE |
-|                | COMPUTING 3    | COMPUTING 3    | 5 `Spectral     |
-|                | `Classificatio | `Classificatio | Information`_   |
-|                | n`_            | n`_            |                 |
-+----------------+----------------+----------------+-----------------+
-| Week 6         | READING WEEK   | READING WEEK   | READING WEEK    |
-+----------------+----------------+----------------+-----------------+
-| Week 7         | 21/2/19        | 21/2/19        | 22/2/19 LECTURE |
-|                | COMPUTING 3    | COMPUTING 3    | 6               |
-|                | `Classificatio | `Classificatio | `Environmental  |
-|                | n`_            | n`_            | Modelling: I`_  |
-+----------------+----------------+----------------+-----------------+
-| Week 8         | 28/2/19        | 28/2/19        | 1/3/19 LECTURE  |
-|                | COMPUTING 4    | COMPUTING 4    | 6               |
-|                | `Project`_     | `Project`_     | `Environmental  |
-|                |                |                | Modelling: II`_ |
-+----------------+----------------+----------------+-----------------+
-| Week 9         | 07/3/19        | 07/3/19        | 08/3/19         |
-|                | COMPUTING 4    | COMPUTING 4    | COMPUTING 4     |
-|                | `Project`_     | `Project`_     | `Project`_      |
-+----------------+----------------+----------------+-----------------+
-| Week 10        | 14/3/19        | 14/3/19        | 15/3/19 Project |
-|                | COMPUTING 4    | COMPUTING 4    | Discussion      |
-|                | `Project`_     | `Project`_     |                 |
-+----------------+----------------+----------------+-----------------+
-| Week 11        | 21/3/19        | 21/3/19        | No lecture      |
-|                | COMPUTING 4    | COMPUTING 4    |                 |
-|                | `Project`_     | `Project`_     |                 |
-+----------------+----------------+----------------+-----------------+
+Thursday Practicals will be in two groups, set at the beginning of term.
 
-Lectures in `Pearson G07`_
++----------------------+------------------------+----------------------+
+|                      | Monday Lecture         | Thursday Practical   |
+|                      | 11:00-12:00            | 09:00-11:00 and      |
+|                      |                        | 11:00-13:00          |
++======================+========================+======================+
+| Week 1               | LECTURE 1              | 12/1/2023 COMPUTING  |
+|                      | `Introduction to       | 1 `Image             |
+|                      | cours                  | Display <docs/Im     |
+|                      | e <https://moodle.ucl. | ageDisplay.ipynb>`__ |
+|                      | ac.uk/course/view.php? |                      |
+|                      | id=26363&section=5>`__ |                      |
++----------------------+------------------------+----------------------+
+| Week 2               | LECTURE 2 `Image       | 19/1/2023 `Image     |
+|                      | Display and            | Display <docs/Im     |
+|                      | Enhancemen             | ageDisplay.ipynb>`__ |
+|                      | t <https://moodle.ucl. | Intro to `Google     |
+|                      | ac.uk/course/view.php? | Earth                |
+|                      | id=26363&section=6>`__ | Engine <docs/In      |
+|                      |                        | tro_to_GEE.ipynb>`__ |
++----------------------+------------------------+----------------------+
+| Week 3               | LECTURE 3 `Spatial     | 26/1/2023 COMPUTING  |
+|                      | Informatio             | 2 `Spatial           |
+|                      | n <https://moodle.ucl. | Fi                   |
+|                      | ac.uk/course/view.php? | ltering <docs/Spatia |
+|                      | id=26363&section=7>`__ | lFiltering.ipynb>`__ |
++----------------------+------------------------+----------------------+
+| Week 4               | LECTURE 4 `Image       | 2/2/2023 COMPUTING 3 |
+|                      | Classificatio          | `Class               |
+|                      | n <https://moodle.ucl. | ification <docs/Clas |
+|                      | ac.uk/course/view.php? | sification.ipynb>`__ |
+|                      | id=26363&section=8>`__ |                      |
++----------------------+------------------------+----------------------+
+| Week 5               | LECTURE 5 `Spectral    | 9/2/2023 COMPUTING 3 |
+|                      | Informatio             | `Class               |
+|                      | n <https://moodle.ucl. | ification <docs/Clas |
+|                      | ac.uk/course/view.php? | sification.ipynb>`__ |
+|                      | id=26363&section=9>`__ |                      |
++----------------------+------------------------+----------------------+
+| Week 6               | READING WEEK           | READING WEEK         |
++----------------------+------------------------+----------------------+
+| Week 7               | LECTURE 6              | 23/2/2023 COMPUTING  |
+|                      | `Environmental         | 4                    |
+|                      | Modelling:             | `Project <https://g  |
+|                      | I                      | ithub.com/UCL-EO/GEO |
+|                      |  <https://moodle.ucl.a | G0027_Coursework>`__ |
+|                      | c.uk/course/view.php?i |                      |
+|                      | d=26363&section=10>`__ |                      |
++----------------------+------------------------+----------------------+
+| Week 8               | LECTURE 7              | 2/3/2023 COMPUTING 4 |
+|                      | `Environmental         | `Project <https://g  |
+|                      | Modelling:             | ithub.com/UCL-EO/GEO |
+|                      | II                     | G0027_Coursework>`__ |
+|                      |  <https://moodle.ucl.a |                      |
+|                      | c.uk/course/view.php?i |                      |
+|                      | d=26363&section=11>`__ |                      |
++----------------------+------------------------+----------------------+
+| Week 9               | 6/3/2023 COMPUTING 4   | 9/3/2023 COMPUTING 4 |
+|                      | `Project <https        | `Project <https://g  |
+|                      | ://github.com/UCL-EO/G | ithub.com/UCL-EO/GEO |
+|                      | EOG0027_Coursework>`__ | G0027_Coursework>`__ |
++----------------------+------------------------+----------------------+
+| Week 10              | 13/3/2023 COMPUTING 4  | 16/3/2023 COMPUTING  |
+|                      | `Project <https        | 4                    |
+|                      | ://github.com/UCL-EO/G | `Project <https://g  |
+|                      | EOG0027_Coursework>`__ | ithub.com/UCL-EO/GEO |
+|                      |                        | G0027_Coursework>`__ |
++----------------------+------------------------+----------------------+
+| Week 11              | 20/3/2023 COMPUTING 4  | 23/3/2023 COMPUTING  |
+|                      | `Project <https        | 4                    |
+|                      | ://github.com/UCL-EO/G | `Project <https://g  |
+|                      | EOG0027_Coursework>`__ | ithub.com/UCL-EO/GEO |
+|                      |                        | G0027_Coursework>`__ |
++----------------------+------------------------+----------------------+
 
-Computing in Pearson Building, UNIX Computer lab, `Pearson 110a`_
+Monday lectures are in are in NWW G07 and Thursday practical sessions
+will be in North West Wing Room 110 (‘Unix lab’)
+
+ENVI Software
+^^^^^^^^^^^^^
+
+ENVI is available on the machines in NWW 110, though there are othe
+roptions for independent learning.
+
+ENVI 5.5.3 is available to registered students through Virtual UCL PCs
+during the live sessions via UCL Desktop Anywhere (see help info at
+https://www.ucl.ac.uk/isd/how-to/how-to-log-to-virtual-teaching-pc).
+
+For ad-hoc use of ENVI software outside of the live hours, it can be
+accessed from UCL Desktop Anywhere. We will use the ENVI 5.5.3 (not ENVI
+Classic 5.5.3) version for the guided practicals before half term.
+Additionally, you can install ENVI on your personal computer with a UCL
+license (http://swdb.ucl.ac.uk/package/view/id/142?filter=envi).
+However, support might be limited from the teaching staff. Thus, we
+recommend using Desktop@UCL during the term time for best support and
+accessibility.
+
+Google Earth Engine is accessed from within IPython notebook. These can
+be easily run on `UCL jupyter
+hub <https://jupyter.data-science.rc.ucl.ac.uk/>`__, accessible using a
+standard UCL login. The notebooks can also be used wthin a open-source
+conda distribution, though setting up all the libraries can be
+cumbersome and staff will not have the time to support this.
 
 --------------
 
 Reading List
 ^^^^^^^^^^^^
 
--  Jensen, John R. (2006) Remote Sensing of the Environment: an Earth
+-  Jensen, John R. (2006) Remote iSensing of the Environment: an Earth
    Resources Perspective, Hall and Prentice, New Jersey, 2nd ed.
 -  Jensen, John R. (1995, 2004) Introductory Digital Image Processing: A
    Remote Sensing Perspective (Prentice Hall Series in Geographic
@@ -172,22 +210,9 @@ Reading List
 -  Jones, H. G and Vaughan, R. A. (2010) Remote Sensing of Vegetation,
    OUP, Oxford.
 -  Lillesand, T., Kiefer, R. and Chipman, J. (2004) Remote Sensing and
-   Image Interpretation. John
+   Image Interpretation. John Wiley and Sons, NY, 5th ed.
+-  Mather, P. (2004) Computer processing of remotely sensed images: an
+   introduction
 
-.. _Introduction to course; Environmental Remote Sensing: coursenotes/lecture1.pdf
-.. _Introductory Computing: unix.md
-.. _Image Display: ImageDisplay.ipynb
-.. _Image Display and Enhancement: coursenotes/lecture2.pdf
-.. _Data download: Download.ipynb
-.. _Spatial Information: coursenotes/lecture3.pdf
-.. _Spatial Filtering: SpatialFiltering.ipynb
-.. _Image Classification: coursenotes/lecture4.pdf
-.. _Classification: Classification.ipynb
-.. _Spectral Information: coursenotes/lecture5.pdf
-.. _`Environmental Modelling: I`: coursenotes/modelling1.pdf
-.. _Project: http://proflewis.github.io/GEOG0027_Coursework/
-.. _`Environmental Modelling: II`: coursenotes/modelling2.pdf
-.. _Pearson G07: https://www.ucl.ac.uk/maps/pearson
-.. _Pearson 110a: https://www.ucl.ac.uk/maps/pearson
-
-
+.. |Binder| image:: https://mybinder.org/badge_logo.svg
+   :target: https://mybinder.org/v2/gh/profLewis/GEOG0027.git/master
