@@ -79,7 +79,7 @@ Thursday Practicals will be in two groups, set at the beginning of term.
 |  | Monday Lecture 11:00-12:00 | Thursday Practical 09:00-11:00 and 11:00-13:00 |
 | ------------------- | :-------------------: | :-----------------: | 
 | Week 1 |  LECTURE 1 [Introduction to course](https://moodle.ucl.ac.uk/course/view.php?id=26363&section=5) | 12/1/2023 COMPUTING 1 [Image Display](docs/ImageDisplay.ipynb) |
-| Week 2 | LECTURE 2 [Image Display and Enhancement](https://moodle.ucl.ac.uk/course/view.php?id=26363&section=6) | 19/1/2023 [Image Display](docs/ImageDisplay.ipynb) Intro to Google Earth Engine [Data download](docs/Intro_to_GEE.ipynb) |
+| Week 2 | LECTURE 2 [Image Display and Enhancement](https://moodle.ucl.ac.uk/course/view.php?id=26363&section=6) | 19/1/2023 [Image Display](docs/ImageDisplay.ipynb) Intro to [Google Earth Engine](docs/Intro_to_GEE.ipynb) |
 | Week 3 | LECTURE 3 [Spatial Information](https://moodle.ucl.ac.uk/course/view.php?id=26363&section=7) | 26/1/2023 COMPUTING 2 [Spatial Filtering](docs/SpatialFiltering.ipynb) |
 | Week 4  | LECTURE 4 [Image Classification](https://moodle.ucl.ac.uk/course/view.php?id=26363&section=8) | 2/2/2023 COMPUTING 3 [Classification](docs/Classification.ipynb) | 
 | Week 5 | LECTURE 5 [Spectral Information](https://moodle.ucl.ac.uk/course/view.php?id=26363&section=9) | 9/2/2023 COMPUTING 3 [Classification](docs/Classification.ipynb)  |
