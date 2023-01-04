@@ -11,6 +11,8 @@ dependencies:
   - numpy
   - pandas
   - imagemagick
-  - pip:
-    - nbsphinx
-    - sphinx_rtd_theme
+  - nbsphinx
+  - sphinx_rtd_theme
+#   - pip:
+#     - nbsphinx
+#     - sphinx_rtd_theme
