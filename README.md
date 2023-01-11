@@ -58,12 +58,12 @@ Usual range 100-150 for 1/2 course unit
 
 ##### Assessment
 
-+ 100% Assessed Practical (3000 words) - submission date standard 2nd year submission date i.e. Mon 24th April 2023 (12 noon).
++ 100% Assessed Practical (3500 words) - submission date standard 2nd year submission date i.e. Mon 24th April 2023 (12 noon).
 + For details of the coursework, please see [https://github.com/UCL-EO/GEOG0027_Coursework](https://github.com/UCL-EO/GEOG0027_Coursework)
 
 N.B.
 
-- Penalties for late submission and over length WILL be applied
+- Penalties for late submission and over length WILL be applied. No penalties for low count until below 2500 words. 3000 word submissions recommended.
 - Different arrangements for JYA/Socrates (make sure you inform the lecturers if this affects you)
 
 -----------------------------------
