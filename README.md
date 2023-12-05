@@ -2,11 +2,11 @@
 
 # GEOG0027 Environmental Remote Sensing
 
-## Course Tutors 2022/23
-
-[Prof. M. Disney](http://www2.geog.ucl.ac.uk/~mdisney)
+## Course Tutors 2023/24
 
 [Dr Harry Heorton](mailto:h.heorton@ucl.ac.uk)
+
+[Dr Martin Mokros](mailto:m.mokros@ucl.ac.uk)
 
 
 Department of Geography
@@ -43,10 +43,10 @@ University College London
 
 |Component 	|Hours|
 |-------  | :--------:|
-| Lectures | 	10|
+| Lectures | 	7|
 |Private Reading 	|80
-|Supervised Laboratory Work (Computing) |	20|
-|Independent Laboratory Work (Computing) |	20|
+|Supervised Laboratory Work (Computing) |	23|
+|Independent Laboratory Work (Computing) |	23|
 |Required Written Work |	10|
 |TOTAL |	140|
 
@@ -73,30 +73,30 @@ N.B.
 Thursday Practicals will be in two groups, set at the beginning of term.
 
 
-|  | Monday Lecture 11:00-12:00 | Thursday Practical 09:00-11:00 and 11:00-13:00 |
+|  | Monday Lecture 11:00-12:00 | Thursday Practical 09:00-11:00 or 11:00-13:00 |
 | ------------------- | :-------------------: | :-----------------: | 
-| Week 1 |  LECTURE 1 [Introduction to course](https://moodle.ucl.ac.uk/course/view.php?id=26363&section=5) | 12/1/2023 COMPUTING 1 [Image Display](docs/ImageDisplay.ipynb) |
-| Week 2 | LECTURE 2 [Image Display and Enhancement](https://moodle.ucl.ac.uk/course/view.php?id=26363&section=6) | 19/1/2023 Intro to [Google Earth Engine](docs/Intro_to_GEE.ipynb) |
-| Week 3 | LECTURE 3 [Spatial Information](https://moodle.ucl.ac.uk/course/view.php?id=26363&section=7) | 26/1/2023 COMPUTING 2 [Spatial Filtering](docs/SpatialFiltering.ipynb), [GEE Spatial Filtering](docs/SpatialFilteringGEE.ipynb) |
-| Week 4  | LECTURE 4 [Image Classification](https://moodle.ucl.ac.uk/course/view.php?id=26363&section=8) | 2/2/2023 COMPUTING 3 [Classification](docs/Classification.ipynb) | 
-| Week 5 | LECTURE 5 [Spectral Information](https://moodle.ucl.ac.uk/course/view.php?id=26363&section=9) | 9/2/2023 COMPUTING 3 [Classification](docs/Classification.ipynb)  |
+| Week 1 | 8/1/2023  LECTURE 1 [Introduction to course](https://moodle.ucl.ac.uk/course/view.php?id=26363&section=5) | 11/1/2023 COMPUTING 1 [Image Display](docs/ImageDisplay.ipynb) |
+| Week 2 | 15/1/2023 LECTURE 2 [Image Display and Enhancement](https://moodle.ucl.ac.uk/course/view.php?id=26363&section=6) | 18/1/2023 Intro to [Google Earth Engine](docs/Intro_to_GEE.ipynb) |
+| Week 3 | 22/1/2023 LECTURE 3 [Spatial Information](https://moodle.ucl.ac.uk/course/view.php?id=26363&section=7) | 25/1/2023 COMPUTING 2 [Spatial Filtering](docs/SpatialFiltering.ipynb), [GEE Spatial Filtering](docs/SpatialFilteringGEE.ipynb) |
+| Week 4  | 29/1/2023 LECTURE 4 [Image Classification](https://moodle.ucl.ac.uk/course/view.php?id=26363&section=8) | 1/2/2023 COMPUTING 3 [Classification](docs/Classification.ipynb) | 
+| Week 5 | 5/2/2023 LECTURE 5 [Spectral Information](https://moodle.ucl.ac.uk/course/view.php?id=26363&section=9) | 8/2/2023 COMPUTING 3 [Classification](docs/Classification.ipynb)  |
 | Week 6 | READING WEEK | READING WEEK |
-| Week 7 | LECTURE 6 [Environmental Modelling: I](https://moodle.ucl.ac.uk/course/view.php?id=26363&section=10) | 23/2/2023  COMPUTING 4 [Project](https://github.com/UCL-EO/GEOG0027_Coursework) |
-| Week 8 | LECTURE 7 [Environmental Modelling: II](https://moodle.ucl.ac.uk/course/view.php?id=26363&section=11)  | 2/3/2023 COMPUTING 4 [Project](https://github.com/UCL-EO/GEOG0027_Coursework)| 
-| Week 9 | 6/3/2023 COMPUTING 4 [Project](https://github.com/UCL-EO/GEOG0027_Coursework) | 9/3/2023 COMPUTING 4 [Project](https://github.com/UCL-EO/GEOG0027_Coursework)| 
-| Week 10 | 13/3/2023 COMPUTING 4 [Project](https://github.com/UCL-EO/GEOG0027_Coursework)| 16/3/2023 COMPUTING 4 [Project](https://github.com/UCL-EO/GEOG0027_Coursework)| 
-| Week 11 | 20/3/2023 COMPUTING 4 [Project](https://github.com/UCL-EO/GEOG0027_Coursework) | 23/3/2023 COMPUTING 4  [Project](https://github.com/UCL-EO/GEOG0027_Coursework)|  
+| Week 7 | 19/2/2023 LECTURE 6 [Environmental Modelling: I](https://moodle.ucl.ac.uk/course/view.php?id=26363&section=10) | 22/2/2023  COMPUTING 4 [Project](https://github.com/UCL-EO/GEOG0027_Coursework) |
+| Week 8 | 26/2/2023 LECTURE 7 [Environmental Modelling: II](https://moodle.ucl.ac.uk/course/view.php?id=26363&section=11)  | 29/2/2023 COMPUTING 4 [Project](https://github.com/UCL-EO/GEOG0027_Coursework)| 
+| Week 9 | 4/3/2023 COMPUTING 4 [Project](https://github.com/UCL-EO/GEOG0027_Coursework) | 7/3/2023 COMPUTING 4 [Project](https://github.com/UCL-EO/GEOG0027_Coursework)| 
+| Week 10 | 11/3/2023 COMPUTING 4 [Project](https://github.com/UCL-EO/GEOG0027_Coursework)| 14/3/2023 COMPUTING 4 [Project](https://github.com/UCL-EO/GEOG0027_Coursework)| 
+| Week 11 | 18/3/2023 COMPUTING 4 [Project](https://github.com/UCL-EO/GEOG0027_Coursework) | 21/3/2023 COMPUTING 4  [Project](https://github.com/UCL-EO/GEOG0027_Coursework)|  
 
-Monday lectures are in are in NWW G07 and Thursday practical sessions will be in North West Wing Room 110 ('Unix lab')
+Monday lectures are in [Chadwick Building B05](https://www.google.com/maps/place/51%C2%B031'27.0%22N+0%C2%B008'03.0%22W/@51.524154,-0.134168,17z/data=!3m1!4b1!4m4!3m3!8m2!3d51.524154!4d-0.134168?entry=ttu) and Thursday practical sessions will be in North West Wing Room 110 ('Unix lab')
 
 #### ENVI Software
-ENVI is available on the machines in NWW 110, though there are othe roptions for independent learning.
+ENVI is available on the machines in NWW 110, though there are other options for independent learning.
 
 ENVI 5.5.3 is available to registered students through Virtual UCL PCs during the live sessions via UCL Desktop Anywhere (see help info at https://www.ucl.ac.uk/isd/how-to/how-to-log-to-virtual-teaching-pc). 
 
 For ad-hoc use of ENVI software outside of the live hours, it can be accessed from UCL Desktop Anywhere. We will use the ENVI 5.5.3  (not ENVI Classic 5.5.3) version for the guided practicals before half term. Additionally, you can install ENVI on your personal computer with a UCL license (http://swdb.ucl.ac.uk/package/view/id/142?filter=envi). However, support might be limited from the teaching staff. Thus, we recommend using Desktop@UCL during the term time for best support and accessibility. 
 
-Google Earth Engine is accessed from within IPython notebook. These can be easily run on [UCL jupyter hub](https://jupyter.data-science.rc.ucl.ac.uk/), accessible using a standard UCL login. The notebooks can also be used wthin a open-source conda distribution, though setting up all the libraries can be cumbersome and staff will not have the time to support this.
+Google Earth Engine is accessed from within IPython notebook. These can be easily run on [UCL jupyter hub](https://jupyter.data-science.rc.ucl.ac.uk/), accessible using a standard UCL login. The notebooks can also be used within an open-source conda distribution, though setting up all the libraries can be cumbersome and staff will not have the time to support this.
 
 
 -----------------------------------
