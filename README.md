@@ -58,7 +58,7 @@ Usual range 100-150 for 1/2 course unit
 
 ##### Assessment
 
-+ 100% Assessed Practical (3500 words) - submission date standard 2nd year submission date i.e. Mon 24th April 2023 (12 noon).
++ 100% Assessed Practical (3500 words) - submission date standard 2nd year submission date i.e. Mon 22nd April 2024 (12 noon).
 + For details of the coursework, please see [https://github.com/UCL-EO/GEOG0027_Coursework](https://github.com/UCL-EO/GEOG0027_Coursework)
 
 N.B.
@@ -75,17 +75,17 @@ Thursday Practicals will be in two groups, set at the beginning of term.
 
 |  | Monday Lecture 11:00-12:00 | Thursday Practical 09:00-11:00 and 11:00-13:00 |
 | ------------------- | :-------------------: | :-----------------: | 
-| Week 1 |  LECTURE 1 [Introduction to course](https://moodle.ucl.ac.uk/course/view.php?id=26363&section=5) | 12/1/2023 COMPUTING 1 [Image Display](docs/ImageDisplay.ipynb) |
-| Week 2 | LECTURE 2 [Image Display and Enhancement](https://moodle.ucl.ac.uk/course/view.php?id=26363&section=6) | 19/1/2023 Intro to [Google Earth Engine](docs/Intro_to_GEE.ipynb) |
-| Week 3 | LECTURE 3 [Spatial Information](https://moodle.ucl.ac.uk/course/view.php?id=26363&section=7) | 26/1/2023 COMPUTING 2 [Spatial Filtering](docs/SpatialFiltering.ipynb), [GEE Spatial Filtering](docs/SpatialFilteringGEE.ipynb) |
-| Week 4  | LECTURE 4 [Image Classification](https://moodle.ucl.ac.uk/course/view.php?id=26363&section=8) | 2/2/2023 COMPUTING 3 [Classification](docs/Classification.ipynb) | 
-| Week 5 | LECTURE 5 [Spectral Information](https://moodle.ucl.ac.uk/course/view.php?id=26363&section=9) | 9/2/2023 COMPUTING 3 [Classification](docs/Classification.ipynb)  |
+| Week 1 |  LECTURE 1 [Introduction to course](https://moodle.ucl.ac.uk/course/view.php?id=26363&section=5) | 12/1/2024 COMPUTING 1 [Image Display](docs/ImageDisplay.ipynb) |
+| Week 2 | LECTURE 2 [Image Display and Enhancement](https://moodle.ucl.ac.uk/course/view.php?id=26363&section=6) | 19/1/2024 Intro to [Google Earth Engine](docs/Intro_to_GEE.ipynb) |
+| Week 3 | LECTURE 3 [Spatial Information](https://moodle.ucl.ac.uk/course/view.php?id=26363&section=7) | 26/1/2024 COMPUTING 2 [Spatial Filtering](docs/SpatialFiltering.ipynb), [GEE Spatial Filtering](docs/SpatialFilteringGEE.ipynb) |
+| Week 4  | LECTURE 4 [Image Classification](https://moodle.ucl.ac.uk/course/view.php?id=26363&section=8) | 2/2/2024 COMPUTING 3 [Classification](docs/Classification.ipynb) | 
+| Week 5 | LECTURE 5 [Spectral Information](https://moodle.ucl.ac.uk/course/view.php?id=26363&section=9) | 9/2/2024 COMPUTING 3 [Classification](docs/Classification.ipynb)  |
 | Week 6 | READING WEEK | READING WEEK |
-| Week 7 | LECTURE 6 [Environmental Modelling: I](https://moodle.ucl.ac.uk/course/view.php?id=26363&section=10) | 23/2/2023  COMPUTING 4 [Project](https://github.com/UCL-EO/GEOG0027_Coursework) |
-| Week 8 | LECTURE 7 [Environmental Modelling: II](https://moodle.ucl.ac.uk/course/view.php?id=26363&section=11)  | 2/3/2023 COMPUTING 4 [Project](https://github.com/UCL-EO/GEOG0027_Coursework)| 
-| Week 9 | 6/3/2023 COMPUTING 4 [Project](https://github.com/UCL-EO/GEOG0027_Coursework) | 9/3/2023 COMPUTING 4 [Project](https://github.com/UCL-EO/GEOG0027_Coursework)| 
-| Week 10 | 13/3/2023 COMPUTING 4 [Project](https://github.com/UCL-EO/GEOG0027_Coursework)| 16/3/2023 COMPUTING 4 [Project](https://github.com/UCL-EO/GEOG0027_Coursework)| 
-| Week 11 | 20/3/2023 COMPUTING 4 [Project](https://github.com/UCL-EO/GEOG0027_Coursework) | 23/3/2023 COMPUTING 4  [Project](https://github.com/UCL-EO/GEOG0027_Coursework)|  
+| Week 7 | LECTURE 6 [Environmental Modelling: I](https://moodle.ucl.ac.uk/course/view.php?id=26363&section=10) | 23/2/2024  COMPUTING 4 [Project](https://github.com/UCL-EO/GEOG0027_Coursework) |
+| Week 8 | LECTURE 7 [Environmental Modelling: II](https://moodle.ucl.ac.uk/course/view.php?id=26363&section=11)  | 2/3/2024 COMPUTING 4 [Project](https://github.com/UCL-EO/GEOG0027_Coursework)| 
+| Week 9 | 6/3/2024 COMPUTING 4 [Project](https://github.com/UCL-EO/GEOG0027_Coursework) | 9/3/2024 COMPUTING 4 [Project](https://github.com/UCL-EO/GEOG0027_Coursework)| 
+| Week 10 | 13/3/2024 COMPUTING 4 [Project](https://github.com/UCL-EO/GEOG0027_Coursework)| 16/3/2024 COMPUTING 4 [Project](https://github.com/UCL-EO/GEOG0027_Coursework)| 
+| Week 11 | 20/3/2024 COMPUTING 4 [Project](https://github.com/UCL-EO/GEOG0027_Coursework) | 23/3/2024 COMPUTING 4  [Project](https://github.com/UCL-EO/GEOG0027_Coursework)|  
 
 Monday lectures are in are in NWW G07 and Thursday practical sessions will be in North West Wing Room 110 ('Unix lab')
 
