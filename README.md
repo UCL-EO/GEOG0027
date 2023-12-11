@@ -83,9 +83,9 @@ Thursday Practicals will be in two groups, set at the beginning of term.
 | Week 6 | READING WEEK | READING WEEK |
 | Week 7 | LECTURE 6 [Environmental Modelling: I](https://moodle.ucl.ac.uk/course/view.php?id=26363&section=10) | 22/2/2024  COMPUTING 4 [Project](https://github.com/UCL-EO/GEOG0027_Coursework) |
 | Week 8 | LECTURE 7 [Environmental Modelling: II](https://moodle.ucl.ac.uk/course/view.php?id=26363&section=11)  | 29/2/2024 COMPUTING 4 [Project](https://github.com/UCL-EO/GEOG0027_Coursework)| 
-| Week 9 | 6/3/2024 COMPUTING 4 [Project](https://github.com/UCL-EO/GEOG0027_Coursework) | 7/3/2024 COMPUTING 4 [Project](https://github.com/UCL-EO/GEOG0027_Coursework)| 
-| Week 10 | 13/3/2024 COMPUTING 4 [Project](https://github.com/UCL-EO/GEOG0027_Coursework)| 14/3/2024 COMPUTING 4 [Project](https://github.com/UCL-EO/GEOG0027_Coursework)| 
-| Week 11 | 20/3/2024 COMPUTING 4 [Project](https://github.com/UCL-EO/GEOG0027_Coursework) | 21/3/2024 COMPUTING 4  [Project](https://github.com/UCL-EO/GEOG0027_Coursework)|  
+| Week 9 | 4/3/2024 COMPUTING 4 [Project](https://github.com/UCL-EO/GEOG0027_Coursework) | 7/3/2024 COMPUTING 4 [Project](https://github.com/UCL-EO/GEOG0027_Coursework)| 
+| Week 10 | 11/3/2024 COMPUTING 4 [Project](https://github.com/UCL-EO/GEOG0027_Coursework)| 14/3/2024 COMPUTING 4 [Project](https://github.com/UCL-EO/GEOG0027_Coursework)| 
+| Week 11 | 18/3/2024 COMPUTING 4 [Project](https://github.com/UCL-EO/GEOG0027_Coursework) | 21/3/2024 COMPUTING 4  [Project](https://github.com/UCL-EO/GEOG0027_Coursework)|  
 
 Monday lectures are in Chadwick Building B05 (opposite side of the entrance to the quad from Geography) and Thursday practical sessions will be in North West Wing Room 110 ('Unix lab')
 
