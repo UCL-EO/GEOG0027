@@ -69,7 +69,7 @@ N.B.
 -----------------------------------
 
 
-#### <a name="Timetable">Timetable 2022-23</a>
+#### <a name="Timetable">Timetable 2023-24</a>
 Thursday Practicals will be in two groups, set at the beginning of term.
 
 
