@@ -2,7 +2,7 @@
 
 # GEOG0027 Environmental Remote Sensing
 
-## Course Tutors 2022/23
+## Course Tutors 2023/24
 
 [Dr Harry Heorton](mailto:h.heorton@ucl.ac.uk)
 
