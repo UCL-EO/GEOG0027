@@ -4,9 +4,9 @@
 
 ## Course Tutors 2022/23
 
-[Prof. M. Disney](http://www2.geog.ucl.ac.uk/~mdisney)
-
 [Dr Harry Heorton](mailto:h.heorton@ucl.ac.uk)
+
+[Dr Martin Mokros](mailto:m.mokros@ucl.ac.uk)
 
 
 Department of Geography
