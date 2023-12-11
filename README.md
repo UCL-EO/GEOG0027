@@ -87,7 +87,7 @@ Thursday Practicals will be in two groups, set at the beginning of term.
 | Week 10 | 13/3/2024 COMPUTING 4 [Project](https://github.com/UCL-EO/GEOG0027_Coursework)| 16/3/2024 COMPUTING 4 [Project](https://github.com/UCL-EO/GEOG0027_Coursework)| 
 | Week 11 | 20/3/2024 COMPUTING 4 [Project](https://github.com/UCL-EO/GEOG0027_Coursework) | 23/3/2024 COMPUTING 4  [Project](https://github.com/UCL-EO/GEOG0027_Coursework)|  
 
-Monday lectures are in are in NWW G07 and Thursday practical sessions will be in North West Wing Room 110 ('Unix lab')
+Monday lectures are in Chadwick Building B05 (opposite side of the entrance to the quad from Geography) and Thursday practical sessions will be in North West Wing Room 110 ('Unix lab')
 
 #### ENVI Software
 ENVI is available on the machines in NWW 110, though there are othe roptions for independent learning.
