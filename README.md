@@ -17,7 +17,7 @@ Department of Geography
 University College London
     
     
-[[Educational Aims and Objectives of the Course](#Education)]  [[Course workload and assessment](#workload)]  [[Timetable 2023-24](#Timetable)]   [[Reading List](#ReadingList)]
+[[Educational Aims and Objectives of the Course](#education)]  [[Course workload and assessment](#workload)]  [[Timetable 2023-24](#timetable)]   [[Reading List](#readingList)]
 
 ![](docs/images/Mission_Minerva_Big_Picture_London.jpg)
 [London from the International Space Station, August 2022, taken by astronaut Samantha Cristoferetti.](https://www.esa.int/ESA_Multimedia/Images/2022/09/Mission_Minerva_Big_Picture_London#.Y7P38Vr0nwQ.link)
@@ -25,8 +25,7 @@ University College London
 -----------------------------------
 
 
-#### <a name="Education">Educational Aims and Objectives of the Course</a>
-#Education
+#### <a name="education">Educational Aims and Objectives of the Course</a>
 
  To enable the students to: 
  
@@ -73,7 +72,7 @@ N.B.
 -----------------------------------
 
 
-#### <a name="Timetable">Timetable 2023-24</a>
+#### <a name="timetable">Timetable 2023-24</a>
 Thursday Practicals will be in two groups, set at the beginning of term.
 
 
@@ -106,7 +105,7 @@ Google Earth Engine is accessed from within IPython notebook. These can be easil
 -----------------------------------
 
 
-#### <a name="ReadingList">Reading List</a>
+#### <a name="readingList">Reading List</a>
 
 - Jensen, John R. (2006) Remote Sensing of the Environment: an Earth Resources Perspective, Hall and Prentice, New Jersey, 2nd ed.
 - Jensen, John R. (1995, 2004) Introductory Digital Image Processing: A Remote Sensing Perspective (Prentice Hall Series in Geographic Information Science)
