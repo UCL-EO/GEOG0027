@@ -93,7 +93,7 @@ Thursday Practicals will be in two groups, set at the beginning of term.
 Monday lectures are in Chadwick Building B05 (opposite side of the entrance to the quad from Geography) and Thursday practical sessions will be in North West Wing Room 110 ('Unix lab')
 
 #### ENVI Software
-ENVI is available on the machines in NWW 110, though there are othe roptions for independent learning.
+ENVI is available on the machines in NWW 110, though there are other options for independent learning.
 
 ENVI 5.5.3 is available to registered students through Virtual UCL PCs during the live sessions via UCL Desktop Anywhere (see help info at https://www.ucl.ac.uk/isd/how-to/how-to-log-to-virtual-teaching-pc). 
 
@@ -107,7 +107,7 @@ Google Earth Engine is accessed from within IPython notebook. These can be easil
 
 #### <a name="ReadingList">Reading List</a>
 
-- Jensen, John R. (2006) Remote iSensing of the Environment: an Earth Resources Perspective, Hall and Prentice, New Jersey, 2nd ed.
+- Jensen, John R. (2006) Remote Sensing of the Environment: an Earth Resources Perspective, Hall and Prentice, New Jersey, 2nd ed.
 - Jensen, John R. (1995, 2004) Introductory Digital Image Processing: A Remote Sensing Perspective (Prentice Hall Series in Geographic Information Science)
 - Jones, H. G and Vaughan, R. A. (2010) Remote Sensing of Vegetation, OUP, Oxford.
 - Lillesand, T., Kiefer, R. and Chipman, J. (2004) Remote Sensing and Image Interpretation. John Wiley and Sons, NY, 5th ed.
