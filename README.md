@@ -17,7 +17,7 @@ Department of Geography
 University College London
     
     
-[[Educational Aims and Objectives of the Course](#Education)]  [[Course workload and assessment](#workload)]  [[Timetable 2022-23](#Timetable)]   [[Reading List](#ReadingList)]
+[[Educational Aims and Objectives of the Course](#Education)]  [[Course workload and assessment](#workload)]  [[Timetable 2023-24](#Timetable)]   [[Reading List](#ReadingList)]
 
 ![](docs/images/Mission_Minerva_Big_Picture_London.jpg)
 [London from the International Space Station, August 2022, taken by astronaut Samantha Cristoferetti.](https://www.esa.int/ESA_Multimedia/Images/2022/09/Mission_Minerva_Big_Picture_London#.Y7P38Vr0nwQ.link)
@@ -26,6 +26,7 @@ University College London
 
 
 #### <a name="Education">Educational Aims and Objectives of the Course</a>
+#Education
 
  To enable the students to: 
  
