@@ -78,14 +78,14 @@ Thursday Practicals will be in two groups, set at the beginning of term.
 
 |  | Monday Lecture 11:00-12:00 | Thursday Practical 09:00-11:00 and 11:00-13:00 |
 | ------------------- | :-------------------: | :-----------------: | 
-| Week 1 |  LECTURE 1 [Introduction to course](https://moodle.ucl.ac.uk/course/view.php?id=26363&section=5) | 11/1/2024 COMPUTING 1 [Image Display](docs/ImageDisplay.ipynb) |
-| Week 2 | LECTURE 2 [Image Display and Enhancement](https://moodle.ucl.ac.uk/course/view.php?id=26363&section=6) | 18/1/2024 Intro to [Google Earth Engine](docs/Intro_to_GEE.ipynb) |
-| Week 3 | LECTURE 3 [Spatial Information](https://moodle.ucl.ac.uk/course/view.php?id=26363&section=7) | 25/1/2024 COMPUTING 2 [Spatial Filtering](docs/SpatialFiltering.ipynb), [GEE Spatial Filtering](docs/SpatialFilteringGEE.ipynb) |
-| Week 4  | LECTURE 4 [Image Classification](https://moodle.ucl.ac.uk/course/view.php?id=26363&section=8) | 1/2/2024 COMPUTING 3 [Classification](docs/Classification.ipynb) | 
-| Week 5 | LECTURE 5 [Spectral Information](https://moodle.ucl.ac.uk/course/view.php?id=26363&section=9) | 8/2/2024 COMPUTING 3 [Classification](docs/Classification.ipynb)  |
+| Week 1 |  LECTURE 1 [Introduction to course](https://moodle.ucl.ac.uk/course/view.php?id=38484&section=5) | 11/1/2024 COMPUTING 1 [Image Display](docs/ImageDisplay.ipynb) |
+| Week 2 | LECTURE 2 [Image Display and Enhancement](https://moodle.ucl.ac.uk/course/view.php?id=38484&section=6) | 18/1/2024 Intro to [Google Earth Engine](docs/Intro_to_GEE.ipynb) |
+| Week 3 | LECTURE 3 [Spatial Information](https://moodle.ucl.ac.uk/course/view.php?id=38484&section=7) | 25/1/2024 COMPUTING 2 [Spatial Filtering](docs/SpatialFiltering.ipynb), [GEE Spatial Filtering](docs/SpatialFilteringGEE.ipynb) |
+| Week 4  | LECTURE 4 [Image Classification](https://moodle.ucl.ac.uk/course/view.php?id=38484&section=8) | 1/2/2024 COMPUTING 3 [Classification](docs/Classification.ipynb) | 
+| Week 5 | LECTURE 5 [Spectral Information](https://moodle.ucl.ac.uk/course/view.php?id=38484&section=9) | 8/2/2024 COMPUTING 3 [Classification](docs/Classification.ipynb)  |
 | Week 6 | READING WEEK | READING WEEK |
-| Week 7 | LECTURE 6 [Environmental Modelling: I](https://moodle.ucl.ac.uk/course/view.php?id=26363&section=10) | 22/2/2024  COMPUTING 4 [Project](https://github.com/UCL-EO/GEOG0027_Coursework) |
-| Week 8 | LECTURE 7 [Environmental Modelling: II](https://moodle.ucl.ac.uk/course/view.php?id=26363&section=11)  | 29/2/2024 COMPUTING 4 [Project](https://github.com/UCL-EO/GEOG0027_Coursework)| 
+| Week 7 | LECTURE 6 [Environmental Modelling: I](https://moodle.ucl.ac.uk/course/view.php?id=38484&section=10) | 22/2/2024  COMPUTING 4 [Project](https://github.com/UCL-EO/GEOG0027_Coursework) |
+| Week 8 | LECTURE 7 [Environmental Modelling: II](https://moodle.ucl.ac.uk/course/view.php?id=38484&section=11)  | 29/2/2024 COMPUTING 4 [Project](https://github.com/UCL-EO/GEOG0027_Coursework)| 
 | Week 9 | 4/3/2024 COMPUTING 4 [Project](https://github.com/UCL-EO/GEOG0027_Coursework) | 7/3/2024 COMPUTING 4 [Project](https://github.com/UCL-EO/GEOG0027_Coursework)| 
 | Week 10 | 11/3/2024 COMPUTING 4 [Project](https://github.com/UCL-EO/GEOG0027_Coursework)| 14/3/2024 COMPUTING 4 [Project](https://github.com/UCL-EO/GEOG0027_Coursework)| 
 | Week 11 | 18/3/2024 COMPUTING 4 [Project](https://github.com/UCL-EO/GEOG0027_Coursework) | 21/3/2024 COMPUTING 4  [Project](https://github.com/UCL-EO/GEOG0027_Coursework)|  
