@@ -1,5 +1,4 @@
 # Specific 
-docs/GEE_dev.iynb
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
@@ -9,6 +8,7 @@ __pycache__/
 _build
 .ipynb_checkpoints
 .DS_Store
+*dev.iynb
 
 # C extensions
 *.so
