@@ -4,12 +4,13 @@
 
 ## Course Tutors 2023/24
 
-[Dr Harry Heorton](mailto:h.heorton@ucl.ac.uk)
-
 [Dr Martin Mokros](mailto:m.mokros@ucl.ac.uk)
 
-PGTA for problem classes
-[Zahra Mahabadi](mailto:zahra.mahabadi.19@ucl.ac.uk)
+[Dr Harry Heorton](mailto:h.heorton@ucl.ac.uk)
+
+
+PGTA computer practical support
+[Hendy Fatchurohman](mailto:hendy.fatchurohman.23@ucl.ac.uk)
 
 
 Department of Geography
@@ -61,7 +62,7 @@ Usual range 100-150 for 1/2 course unit
 
 ##### Assessment
 
-+ 100% Assessed Practical (3500 words) - submission date standard 2nd year submission date i.e. Mon 22nd April 2024 (12 noon).
++ 100% Assessed Practical (3500 words) - submission date standard 2nd-year submission date i.e. Mon 28th April 2024 (12 noon).
 + For details of the coursework, please see [https://github.com/UCL-EO/GEOG0027_Coursework](https://github.com/UCL-EO/GEOG0027_Coursework)
 
 N.B.
