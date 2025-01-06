@@ -2,7 +2,7 @@
 
 # GEOG0027 Environmental Remote Sensing
 
-## Course Tutors 2023/24
+## Course Tutors 2024/25
 
 [Dr Martin Mokros](mailto:m.mokros@ucl.ac.uk)
 
@@ -62,7 +62,7 @@ Usual range 100-150 for 1/2 course unit
 
 ##### Assessment
 
-+ 100% Assessed Practical (3500 words) - submission date standard 2nd-year submission date i.e. Mon 28th April 2024 (12 noon).
++ 100% Assessed Practical (3500 words) - submission date standard 2nd-year submission date i.e. Mon 28th April 2025 (12 noon).
 + For details of the coursework, please see [https://github.com/UCL-EO/GEOG0027_Coursework](https://github.com/UCL-EO/GEOG0027_Coursework)
 
 N.B.
