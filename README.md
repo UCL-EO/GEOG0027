@@ -18,7 +18,7 @@ Department of Geography
 University College London
     
     
-[[Educational Aims and Objectives of the Course](#education)]  [[Course workload and assessment](#workload)]  [[Timetable 2023-24](#timetable)]   [[Reading List](#readingList)]
+[[Educational Aims and Objectives of the Course](#education)]  [[Course workload and assessment](#workload)]  [[Timetable 2025-26](#timetable)]   [[Reading List](#readingList)]
 
 ![](docs/images/Mission_Minerva_Big_Picture_London.jpg)
 [London from the International Space Station, August 2022, taken by astronaut Samantha Cristoferetti.](https://www.esa.int/ESA_Multimedia/Images/2022/09/Mission_Minerva_Big_Picture_London#.Y7P38Vr0nwQ.link)
@@ -62,13 +62,9 @@ Usual range 100-150 for 1/2 course unit
 
 ##### Assessment
 
-+ 100% Assessed Practical (3500 words) - submission date standard 2nd-year submission date i.e. Mon 28th April 2025 (12 noon).
++ 100% Assessed Practical (3000 words) - submission date standard 2nd-year submission date i.e. Mon 27th April 2026 (12 noon).
 + For details of the coursework, please see [https://github.com/UCL-EO/GEOG0027_Coursework](https://github.com/UCL-EO/GEOG0027_Coursework)
 
-N.B.
-
-- Penalties for late submission and over length WILL be applied. No penalties for low count until below 2500 words. 3000 word submissions recommended.
-- Different arrangements for JYA/Socrates (make sure you inform the lecturers if this affects you)
 
 -----------------------------------
 
@@ -77,21 +73,21 @@ N.B.
 Thursday Practicals will be in two groups, set at the beginning of term.
 
 
-|  | Monday Lecture 11:00-12:00 | Thursday Practical 09:00-11:00 and 11:00-13:00 |
+|  | Tuesday Lecture 11:00-12:00 | Thursday Practical 09:00-11:00 and 11:00-13:00 |
 | ------------------- | :-------------------: | :-----------------: | 
-| Week 1 |  LECTURE 1 [Introduction to course](https://moodle.ucl.ac.uk/course/view.php?id=38484#section-6) | 16/1/2024 COMPUTING 1 [Image Display](docs/ImageDisplay.ipynb) |
-| Week 2 | LECTURE 2 [Image Display and Enhancement](https://moodle.ucl.ac.uk/course/view.php?id=38484#section-7) | 23/1/2024 Intro to [Google Earth Engine](docs/Intro_to_GEE.ipynb) |
-| Week 3 | LECTURE 3 [Spatial Information](https://moodle.ucl.ac.uk/course/view.php?id=38484#section-8) | 30/1/2024 COMPUTING 2 [Spatial Filtering](docs/SpatialFiltering.ipynb), [GEE Spatial Filtering](docs/SpatialFilteringGEE.ipynb) |
-| Week 4  | LECTURE 4 [Image Classification](https://moodle.ucl.ac.uk/course/view.php?id=38484#section-9) | 6/2/2024 COMPUTING 3 [Classification](docs/Classification.ipynb) | 
-| Week 5 | LECTURE 5 [Spectral Information](https://moodle.ucl.ac.uk/course/view.php?id=38484#section-10) | 13/2/2024 COMPUTING 3 [Classification](docs/Classification.ipynb)  |
+| Week 1 |  LECTURE 1 Introduction to course | 15/1/2026 COMPUTING 1 [Image Display](docs/ImageDisplay.ipynb) |
+| Week 2 | LECTURE 2 Image Display and Enhancement | 22/1/2026 Intro to [Google Earth Engine](docs/Intro_to_GEE.ipynb) |
+| Week 3 | LECTURE 3 Spatial Information | 29/1/2026 COMPUTING 2 [Spatial Filtering](docs/SpatialFiltering.ipynb), [GEE Spatial Filtering](docs/SpatialFilteringGEE.ipynb) |
+| Week 4  | LECTURE 4 Image Classification | 5/2/2026 COMPUTING 3 [Classification](docs/Classification.ipynb) | 
+| Week 5 | LECTURE 5 Spectral Information | 12/2/2026 COMPUTING 3 [Classification](docs/Classification.ipynb)  |
 | Week 6 | READING WEEK | READING WEEK |
-| Week 7 | LECTURE 6 [Environmental Modelling: I](https://moodle.ucl.ac.uk/course/view.php?id=38484#section-11) | 27/2/2024  COMPUTING 4 [Project](https://github.com/UCL-EO/GEOG0027_Coursework) |
-| Week 8 | LECTURE 7 [Environmental Modelling: II](https://moodle.ucl.ac.uk/course/view.php?id=38484#section-12)  | 06/3/2024 COMPUTING 4 [Project](https://github.com/UCL-EO/GEOG0027_Coursework)| 
-| Week 9 | 13/3/2024 COMPUTING 4 [Project](https://github.com/UCL-EO/GEOG0027_Coursework) | 7/3/2024 COMPUTING 4 [Project](https://github.com/UCL-EO/GEOG0027_Coursework)| 
-| Week 10 | 20/3/2024 COMPUTING 4 [Project](https://github.com/UCL-EO/GEOG0027_Coursework)| 14/3/2024 COMPUTING 4 [Project](https://github.com/UCL-EO/GEOG0027_Coursework)| 
-| Week 11 | 27/3/2024 COMPUTING 4 [Project](https://github.com/UCL-EO/GEOG0027_Coursework) | 21/3/2024 COMPUTING 4  [Project](https://github.com/UCL-EO/GEOG0027_Coursework)|  
+| Week 7 | LECTURE 6 Environmental Modelling: I | 26/2/2026  COMPUTING 4 [Project](https://github.com/UCL-EO/GEOG0027_Coursework) |
+| Week 8 | LECTURE 7 Environmental Modelling: II | 05/3/2026 COMPUTING 4 [Project](https://github.com/UCL-EO/GEOG0027_Coursework)| 
+| Week 9 | 10/3/2026 COMPUTING 4 [Project](https://github.com/UCL-EO/GEOG0027_Coursework) | 12/3/2026 COMPUTING 4 [Project](https://github.com/UCL-EO/GEOG0027_Coursework)| 
+| Week 10 | 17/3/2026 COMPUTING 4 [Project](https://github.com/UCL-EO/GEOG0027_Coursework)| 19/3/2026 COMPUTING 4 [Project](https://github.com/UCL-EO/GEOG0027_Coursework)| 
+| Week 11 | 24/3/2026 COMPUTING 4 [Project](https://github.com/UCL-EO/GEOG0027_Coursework) | 26/3/2026 COMPUTING 4  [Project](https://github.com/UCL-EO/GEOG0027_Coursework)|  
 
-Monday lectures are in South Wing 9 Garwood LT and Thursday practical sessions will be in North West Wing Room 110 ('Unix lab')
+Tuesday lectures are in Bedford Way (20) - Room: A5.02 and Thursday practical sessions will be in the North West Wing Room 110 ('Unix lab')
 
 #### ENVI Software
 ENVI 6.0 is available on the machines in NWW 110.
