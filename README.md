@@ -75,7 +75,7 @@ Thursday Practicals will be in two groups, set at the beginning of term.
 
 |  | Tuesday Lecture 11:00-12:00 | Thursday Practical 09:00-11:00 and 11:00-13:00 |
 | ------------------- | :-------------------: | :-----------------: | 
-    | Week 1 | [LECTURE 1 Introduction to course](https://drive.google.com/drive/folders/1zdaHmZby2qtKi9KFcLgfOOdGFAKz8Va5?usp=share_link) | 15/1/2026 Intro to ENVI and GEE 1 |
+| Week 1 | [LECTURE 1 Introduction to course](https://drive.google.com/drive/folders/1zdaHmZby2qtKi9KFcLgfOOdGFAKz8Va5?usp=share_link) | 15/1/2026 Intro to ENVI and GEE 1 |
 ||| [Image Display - ENVI](docs/ImageDisplay.ipynb) |
 ||| [Image Display - GEE](https://colab.research.google.com/drive/1NgJWWvDsPodBo29c61aKvhaXFHCynO21?usp=sharing) |
 | Week 2 | LECTURE 2 Image Display and Enhancement | 22/1/2026 Intro to GEE 2 and 3 |
