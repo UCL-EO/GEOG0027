@@ -78,17 +78,17 @@ Thursday Practicals will be in two groups, set at the beginning of term.
 | Week 1 | [LECTURE 1 Introduction to course](https://drive.google.com/drive/folders/1zdaHmZby2qtKi9KFcLgfOOdGFAKz8Va5?usp=share_link) | 15/1/2026 Intro to ENVI and GEE 1 |
 ||| [Image Display - ENVI](docs/ImageDisplay.ipynb) |
 ||| [Image Display - GEE](https://colab.research.google.com/drive/1NgJWWvDsPodBo29c61aKvhaXFHCynO21?usp=sharing) |
-| Week 2 | LECTURE 2 Image Display and Enhancement | 22/1/2026 Intro to GEE 2 and 3 |
+| Week 2 | [LECTURE 2 Image Display and Enhancement](https://drive.google.com/drive/folders/1zdaHmZby2qtKi9KFcLgfOOdGFAKz8Va5?usp=share_link) | 22/1/2026 Intro to GEE 2 and 3 |
 ||| [Google Earth Engine - HUB](docs/Intro_to_GEE.ipynb) |
 ||| [Google Earth Engine Intro 2 - Colab](https://colab.research.google.com/drive/1TbtxjGBmNrKBgn33XhdSrxWflKioI5vc?usp=sharing) |
 ||| [Google Earth Engine Intro 3 - Colab](https://colab.research.google.com/drive/1i3LMOv0TU9EUh5xuJumkjNEeSaJ7n1a2?usp=sharing) |
-| Week 3 | LECTURE 3 Spatial Information | 29/1/2026 COMPUTING 2 [Spatial Filtering](docs/SpatialFiltering.ipynb) |
+| Week 3 | [LECTURE 3 Spatial Information](https://drive.google.com/drive/folders/1zdaHmZby2qtKi9KFcLgfOOdGFAKz8Va5?usp=share_link)| 29/1/2026 COMPUTING 2 [Spatial Filtering](docs/SpatialFiltering.ipynb) |
 ||| [GEE Spatial Filtering - Colab](https://colab.research.google.com/drive/1VBYPM6uUTyx7ILrxo8cdEaKP0UiU_CVy?usp=drive_link) |
-| Week 4  | LECTURE 4 Image Classification | 5/2/2026 COMPUTING 3 [Classification](docs/Classification.ipynb) | 
-| Week 5 | LECTURE 5 Spectral Information | 12/2/2026 COMPUTING 3 [Classification](docs/Classification.ipynb)  |
+| Week 4  | [LECTURE 4 Image Classification](https://drive.google.com/drive/folders/1zdaHmZby2qtKi9KFcLgfOOdGFAKz8Va5?usp=share_link)| 5/2/2026 COMPUTING 3 [Classification](docs/Classification.ipynb) | 
+| Week 5 | [LECTURE 5 Spectral Information](https://drive.google.com/drive/folders/1zdaHmZby2qtKi9KFcLgfOOdGFAKz8Va5?usp=share_link) | 12/2/2026 COMPUTING 3 [Classification](docs/Classification.ipynb)  |
 | Week 6 | READING WEEK | READING WEEK |
-| Week 7 | LECTURE 6 Environmental Modelling: I | 26/2/2026  COMPUTING 4 [Project](https://github.com/UCL-EO/GEOG0027_Coursework) |
-| Week 8 | LECTURE 7 Environmental Modelling: II | 05/3/2026 COMPUTING 4 [Project](https://github.com/UCL-EO/GEOG0027_Coursework)| 
+| Week 7 | [LECTURE 6 Environmental Modelling: I](https://drive.google.com/drive/folders/1zdaHmZby2qtKi9KFcLgfOOdGFAKz8Va5?usp=share_link)| 26/2/2026  COMPUTING 4 [Project](https://github.com/UCL-EO/GEOG0027_Coursework) |
+| Week 8 | [LECTURE 7 Environmental Modelling: II](https://drive.google.com/drive/folders/1zdaHmZby2qtKi9KFcLgfOOdGFAKz8Va5?usp=share_link)| 05/3/2026 COMPUTING 4 [Project](https://github.com/UCL-EO/GEOG0027_Coursework)| 
 | Week 9 | 10/3/2026 COMPUTING 4 [Project](https://github.com/UCL-EO/GEOG0027_Coursework) | 12/3/2026 COMPUTING 4 [Project](https://github.com/UCL-EO/GEOG0027_Coursework)| 
 | Week 10 | 17/3/2026 COMPUTING 4 [Project](https://github.com/UCL-EO/GEOG0027_Coursework)| 19/3/2026 COMPUTING 4 [Project](https://github.com/UCL-EO/GEOG0027_Coursework)| 
 | Week 11 | 24/3/2026 COMPUTING 4 [Project](https://github.com/UCL-EO/GEOG0027_Coursework) | 26/3/2026 COMPUTING 4  [Project](https://github.com/UCL-EO/GEOG0027_Coursework)|  
