@@ -84,7 +84,7 @@ Thursday Practicals will be in two groups, set at the beginning of term.
 ||| [Google Earth Engine Intro 3 - Colab](https://colab.research.google.com/drive/1i3LMOv0TU9EUh5xuJumkjNEeSaJ7n1a2?usp=sharing) |
 | Week 3 | [LECTURE 3 Spatial Information](https://drive.google.com/drive/folders/1zdaHmZby2qtKi9KFcLgfOOdGFAKz8Va5?usp=share_link)| 29/1/2026 COMPUTING 2 [Spatial Filtering](docs/SpatialFiltering.ipynb) |
 ||| [GEE Spatial Filtering - Colab](https://colab.research.google.com/drive/1VBYPM6uUTyx7ILrxo8cdEaKP0UiU_CVy?usp=drive_link) |
-| Week 4  | [LECTURE 4 Image Classification](https://drive.google.com/drive/folders/1zdaHmZby2qtKi9KFcLgfOOdGFAKz8Va5?usp=share_link)| 5/2/2026 COMPUTING 3 [Classification](docs/Classification.ipynb) (Week 4 Demo)[docs/EO_demo.pdf]| 
+| Week 4  | [LECTURE 4 Image Classification](https://drive.google.com/drive/folders/1zdaHmZby2qtKi9KFcLgfOOdGFAKz8Va5?usp=share_link)| 5/2/2026 COMPUTING 3 [Classification](docs/Classification.ipynb) [Week 4 Demo](docs/EO_demo.pdf) | 
 | Week 5 | [LECTURE 5 Spectral Information](https://drive.google.com/drive/folders/1zdaHmZby2qtKi9KFcLgfOOdGFAKz8Va5?usp=share_link) | 12/2/2026 COMPUTING 3 [Classification](docs/Classification.ipynb)  |
 | Week 6 | READING WEEK | READING WEEK |
 | Week 7 | [LECTURE 6 Environmental Modelling: I](https://drive.google.com/drive/folders/1zdaHmZby2qtKi9KFcLgfOOdGFAKz8Va5?usp=share_link)| 26/2/2026  COMPUTING 4 [Project](https://github.com/UCL-EO/GEOG0027_Coursework) |
